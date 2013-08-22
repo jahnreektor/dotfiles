@@ -75,3 +75,16 @@
 (require 'jade-mode)    
 (add-to-list 'auto-mode-alist '("\\.styl$" . sws-mode))
 (add-to-list 'auto-mode-alist '("\\.jade$" . jade-mode))
+
+(iswitchb-mode 1)
+;;iswitchb ignore
+(add-to-list 'iswitchb-buffer-ignore "^ ")
+(add-to-list 'iswitchb-buffer-ignore "*Messages*")
+(add-to-list 'iswitchb-buffer-ignore "*ECB")
+(add-to-list 'iswitchb-buffer-ignore "*Buffer")
+(add-to-list 'iswitchb-buffer-ignore "*scratch")
+(add-to-list 'iswitchb-buffer-ignore "*Completions")
+(add-to-list 'iswitchb-buffer-ignore "*ftp ")
+(add-to-list 'iswitchb-buffer-ignore "*bsh")
+(add-to-list 'iswitchb-buffer-ignore "*jde-log")
+(add-to-list 'iswitchb-buffer-ignore "^[tT][aA][gG][sS]$")
