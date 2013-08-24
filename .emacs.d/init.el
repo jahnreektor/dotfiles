@@ -88,3 +88,5 @@
 (add-to-list 'iswitchb-buffer-ignore "*bsh")
 (add-to-list 'iswitchb-buffer-ignore "*jde-log")
 (add-to-list 'iswitchb-buffer-ignore "^[tT][aA][gG][sS]$")
+    (add-hook 'lisp-mode-hook '(lambda ()
+      (local-set-key (kbd "RET") 'newline-and-indent)))
