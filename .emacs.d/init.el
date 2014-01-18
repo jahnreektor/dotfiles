@@ -102,3 +102,27 @@
 (add-to-list 'auto-mode-alist '("\\.erb\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.mustache\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.djhtml\\'" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.html?\\'" . web-mode))
+
+
+(defun web-mode-hook ()
+  "Hooks for Web mode."
+  (setq web-mode-markup-indent-offset 2)
+  (setq web-mode-code-indent-offset 2)
+  )
+
+;change emacs indent level of js mode
+(setq js-indent-level 2)
+
+
+(global-set-key (kbd "S-C-<left>") 'shrink-window-horizontally)
+    (global-set-key (kbd "S-C-<right>") 'enlarge-window-horizontally)
+    (global-set-key (kbd "S-C-<down>") 'shrink-window)
+    (global-set-key (kbd "S-C-<up>") 'enlarge-window)
+
+(show-paren-mode t)
+(setq show-paren-style 'expression)
+
+;;uniquefy to show paths in reverse
+(require 'uniquify)
+(setq uniquify-buffer-name-style 'reverse)
