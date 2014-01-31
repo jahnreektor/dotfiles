@@ -126,3 +126,27 @@
 ;;uniquefy to show paths in reverse
 (require 'uniquify)
 (setq uniquify-buffer-name-style 'reverse)
+
+
+; org mode
+;; Enable org-mode
+(require 'org)
+;; Make org-mode work with files ending in .org
+;; (add-to-list 'auto-mode-alist '("\\.org$" . org-mode))
+;; The above is the default in recent emacsen
+;;fix m-up m-down for org mode
+(add-hook 'term-setup-hook
+  '(lambda ()
+     (define-key function-key-map "\e[1;9A" [M-up])
+     (define-key function-key-map "\e[1;9B" [M-down])
+     (define-key function-key-map "\e[1;9C" [M-right])
+     (define-key function-key-map "\e[1;9D" [M-left])))
+;;;fix shift + tab
+(add-hook 'term-setup-hook
+         (lambda () (define-key input-decode-map "\e[Z" [backtab])))
+
+;;Hotkeys for org-mode
+(global-set-key "\C-cl" 'org-store-link)
+(global-set-key "\C-cc" 'org-capture)
+(global-set-key "\C-ca" 'org-agenda)
+(global-set-key "\C-cb" 'org-iswitchb)
