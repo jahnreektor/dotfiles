@@ -64,3 +64,4 @@ export PATH=/usr/local/bin:$PATH
 export PATH=/usr/local/sbin:$PATH
 export PATH=/usr/local/heroku/bin:$PATH # Heroku: https://toolbelt.heroku.com/standalone
 export XTERM=xterm-color
+export CLOUDANT_URL=https://johnrichter:F47ZdcEh@app17300262.heroku.cloudant.com
