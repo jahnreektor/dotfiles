@@ -150,3 +150,6 @@
 (global-set-key "\C-cc" 'org-capture)
 (global-set-key "\C-ca" 'org-agenda)
 (global-set-key "\C-cb" 'org-iswitchb)
+
+;;fix emacs problem with node REPL
+(setenv "NODE_NO_READLINE" "1")
