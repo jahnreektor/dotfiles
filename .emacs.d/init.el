@@ -1,3 +1,4 @@
+
 ;; -*- mode: emacs-lisp -*-
 ;; Simple .emacs configuration
 
@@ -153,3 +154,33 @@
 
 ;;fix emacs problem with node REPL
 (setenv "NODE_NO_READLINE" "1")
+
+
+;;java mode indent
+;;(setq default-tab-width 1)
+;;(add-hook 'java-mode-hook (lambda ()
+  ;;                              (setq c-basic-offset 4)))
+
+(add-hook 'java-mode-hook (lambda ()
+																												(setq c-basic-offset 4
+																																		tab-width 4
+																																		indent-tabs-mode t)))
+;; highlight matching bracket
+;;(setq show-paren-delay 0)
+;;    (show-paren-mode 1)
+
+;; color theme
+;;(require 'color-theme)
+;; (require 'color-theme)
+;; (color-theme-initialize)
+;; (color-theme-comidia)
+ ;;(load-file "~/.emacs.d/themes/color-theme-railscasts.el")
+;; (color-theme-railscasts)
+
+;;require doremi
+(require 'doremi)
+(require 'doremi-cmd)
+
+;;magit
+(add-to-list 'load-path "/usr/local/share/emacs/site-lisp/magit")
+(require 'magit)
