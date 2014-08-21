@@ -97,7 +97,7 @@
 
 (require 'web-mode)
 (add-to-list 'auto-mode-alist '("\\.phtml\\'" . web-mode))
-(add-to-list 'auto-mode-alist '("\\.tpl\\.php\\'" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.tpl\\.php\\.inc\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.jsp\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.as[cp]x\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.erb\\'" . web-mode))
@@ -181,6 +181,18 @@
 (require 'doremi)
 (require 'doremi-cmd)
 
-;;magit
-(add-to-list 'load-path "/usr/local/share/emacs/site-lisp/magit")
-(require 'magit)
+;; line numbers on by default
+(global-linum-mode 1)
+
+;;js2 mode
+(autoload 'js2-mode "js2-mode" nil t)
+(add-to-list 'auto-mode-alist '("\\.js$" . js2-mode))
+(custom-set-variables  
+ '(js2-basic-offset 2)  
+ '(js2-bounce-indent-p t)  
+)
+
+;;phpmode
+(autoload 'php-mode "php-mode" "Major mode for editing php code." t)
+(add-to-list 'auto-mode-alist '("\\.php$" . php-mode))
+(add-to-list 'auto-mode-alist '("\\.inc$" . php-mode))
