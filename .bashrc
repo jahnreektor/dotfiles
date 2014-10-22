@@ -189,6 +189,7 @@ alias du='du -ch --max-depth=1'
 alias treeacl='tree -A -C -L 2'
 
 # 2.3) Text and editor commands
+alias emtest='sudo /root/bin/emacs-24.3'
 alias em='emacs -nw'     # No X11 windows
 alias eqq='emacs -nw -Q' # No config and no X11
 export EDITOR='emacs -nw'
@@ -235,3 +236,5 @@ for f in $(command ls ~/.node-completion); do
   test -f "$f" && . "$f"
 done
 # }}}
+
+alias vestart='export KAVI_FS_ROOT=/opt/kavi && source ~/bin/vectl'
