@@ -191,5 +191,17 @@
 (add-to-list 'auto-mode-alist '("\\.inc$" . php-mode))
 
 ;;mustache mode
-(add-to-list 'load-path "~/.emacs.d/mustache-mode.el")
-(require 'mustache-mode)
+;;(add-to-list 'load-path "~/.emacs.d/mustache-mode.el")
+;;(require 'mustache-mode)
+(add-to-list 'load-path "~/.emacs.d/haml-mode.el")
+(require 'haml-mode)
+
+(add-to-list 'load-path "~/.emacs.d/sass-mode.el")
+(require 'sass-mode)
+(add-to-list 'auto-mode-alist '("\\.scss$" . sass-mode))
+
+(when (>= emacs-major-version 24)
+  (require 'package)
+  (package-initialize)
+  (add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/") t)
+  )
