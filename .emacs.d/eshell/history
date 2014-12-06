@@ -8,3 +8,10 @@ z
 node
 node
 node
+tsc greeter.ts
+tsc greeter.ts
+tsc greeter.ts
+ls
+cd typescript/
+ls
+tsc greeter.ts 
