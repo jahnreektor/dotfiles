@@ -113,7 +113,7 @@
   )
 
 ;change emacs indent level of js mode
-(setq js-indent-level 2)
+(setq js-indent-level 4)
 
 
 (global-set-key (kbd "S-C-<left>") 'shrink-window-horizontally)
@@ -263,3 +263,8 @@
 (require 'flycheck)
 (add-hook 'js-mode-hook
           (lambda () (flycheck-mode t)))
+
+(global-set-key (kbd "C-?") 'help-command)
+
+;;dirtree
+(autoload 'dirtree "dirtree" "Add directory to tree view" t)

@@ -15,3 +15,4 @@ ls
 cd typescript/
 ls
 tsc greeter.ts 
+node
