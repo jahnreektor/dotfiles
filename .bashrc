@@ -178,6 +178,7 @@ set -o noclobber
 alias ll="ls -alrtF --color"
 alias la="ls -A"
 alias l="ls -CF --color"
+alias ls="ls -CF --color"
 alias dir='ls --color=auto --format=vertical'
 alias vdir='ls --color=auto --format=long'
 alias m='less'
