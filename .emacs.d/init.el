@@ -301,11 +301,11 @@
 ;;change active color
 (set-face-attribute  'mode-line
                  nil 
-                 :foreground "gray80"
-                 :background "gray25" 
+                 :foreground "blue"
+                 :background "white" 
                  :box '(:line-width 1 :style released-button))
 (set-face-attribute  'mode-line-inactive
                  nil 
-                 :foreground "gray30"
-                 :background "gray55" 
+                 :foreground "white"
+                 :background "black" 
                  :box '(:line-width 1 :style released-button))
