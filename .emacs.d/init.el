@@ -47,7 +47,7 @@
  '(secondary-selection ((((class color) (min-colors 8)) (:background "gray" :foreground "cyan"))))
  '(show-paren-match ((((class color) (background light)) (:background "black"))))
  '(vertical-border ((t nil)))
-)
+ )
 
 ;; ------------
 ;; -- Macros --
@@ -83,7 +83,7 @@
 (add-to-list 'iswitchb-buffer-ignore "*Messages*")
 (add-to-list 'iswitchb-buffer-ignore "*ECB")
 (add-to-list 'iswitchb-buffer-ignore "*Buffer")
-;(add-to-list 'iswitchb-buffer-ignore "*scratch")
+					;(add-to-list 'iswitchb-buffer-ignore "*scratch")
 (add-to-list 'iswitchb-buffer-ignore "*Completions")
 (add-to-list 'iswitchb-buffer-ignore "*ftp ")
 (add-to-list 'iswitchb-buffer-ignore "*bsh")
@@ -112,14 +112,14 @@
   (setq web-mode-code-indent-offset 2)
   )
 
-;change emacs indent level of js mode
+					;change emacs indent level of js mode
 (setq js-indent-level 4)
 
 
 (global-set-key (kbd "S-C-<left>") 'shrink-window-horizontally)
-    (global-set-key (kbd "S-C-<right>") 'enlarge-window-horizontally)
-    (global-set-key (kbd "S-C-<down>") 'shrink-window)
-    (global-set-key (kbd "S-C-<up>") 'enlarge-window)
+(global-set-key (kbd "S-C-<right>") 'enlarge-window-horizontally)
+(global-set-key (kbd "S-C-<down>") 'shrink-window)
+(global-set-key (kbd "S-C-<up>") 'enlarge-window)
 
 (show-paren-mode t)
 (setq show-paren-style 'expression)
@@ -129,7 +129,7 @@
 (setq uniquify-buffer-name-style 'reverse)
 
 
-; org mode
+					; org mode
 ;; Enable org-mode
 (require 'org)
 ;; Make org-mode work with files ending in .org
@@ -137,14 +137,14 @@
 ;; The above is the default in recent emacsen
 ;;fix m-up m-down for org mode
 (add-hook 'term-setup-hook
-  '(lambda ()
-     (define-key function-key-map "\e[1;9A" [M-up])
-     (define-key function-key-map "\e[1;9B" [M-down])
-     (define-key function-key-map "\e[1;9C" [M-right])
-     (define-key function-key-map "\e[1;9D" [M-left])))
+	  '(lambda ()
+	     (define-key function-key-map "\e[1;9A" [M-up])
+	     (define-key function-key-map "\e[1;9B" [M-down])
+	     (define-key function-key-map "\e[1;9C" [M-right])
+	     (define-key function-key-map "\e[1;9D" [M-left])))
 ;;;fix shift + tab
 (add-hook 'term-setup-hook
-         (lambda () (define-key input-decode-map "\e[Z" [backtab])))
+	  (lambda () (define-key input-decode-map "\e[Z" [backtab])))
 
 ;;Hotkeys for org-mode
 (global-set-key "\C-cl" 'org-store-link)
@@ -159,12 +159,12 @@
 ;;java mode indent
 ;;(setq default-tab-width 1)
 ;;(add-hook 'java-mode-hook (lambda ()
-  ;;                              (setq c-basic-offset 4)))
+;;                              (setq c-basic-offset 4)))
 
 (add-hook 'java-mode-hook (lambda ()
-																												(setq c-basic-offset 4
-																																		tab-width 4
-																																		indent-tabs-mode t)))
+			    (setq c-basic-offset 4
+				  tab-width 4
+				  indent-tabs-mode t)))
 ;; highlight matching bracket
 ;;(setq show-paren-delay 0)
 ;;    (show-paren-mode 1)
@@ -174,7 +174,7 @@
 ;; (require 'color-theme)
 ;; (color-theme-initialize)
 ;; (color-theme-comidia)
- ;;(load-file "~/.emacs.d/themes/color-theme-railscasts.el")
+;;(load-file "~/.emacs.d/themes/color-theme-railscasts.el")
 ;; (color-theme-railscasts)
 
 ;;require doremi
@@ -196,7 +196,6 @@
 (add-to-list 'load-path "~/.emacs.d/haml-mode.el")
 (require 'haml-mode)
 
-(add-to-list 'load-path "~/.emacs.d/sass-mode.el")
 (require 'sass-mode)
 (add-to-list 'auto-mode-alist '("\\.scss$" . sass-mode))
 
@@ -268,3 +267,45 @@
 
 ;;dirtree
 (autoload 'dirtree "dirtree" "Add directory to tree view" t)
+
+
+;;;sass indenting fix from stack overflow
+(defconst sass-line-keywords
+  '(("@\\(\\w+\\)"    0 font-lock-keyword-face sass-highlight-directive)
+    ("/[/*].*"  0 font-lock-comment-face)
+    ("[=+]\\w+" 0 font-lock-variable-name-face sass-highlight-script-after-match)
+    ("!\\w+"    0 font-lock-variable-name-face sass-highlight-script-after-match)
+    (":\\w+"    0 font-lock-variable-name-face)
+    ("\\w+\s*:" 0 font-lock-variable-name-face)
+    ("\\(\\w+\\)\s*="  1 font-lock-variable-name-face sass-highlight-script-after-match)
+    ("\\(:\\w+\\)\s*=" 1 font-lock-variable-name-face sass-highlight-script-after-match)
+    (".*"      sass-highlight-selector)))
+
+(defconst sass-selector-font-lock-keywords
+  '( ;; Attribute selectors (e.g. p[foo=bar])
+    ("\\[\\([^]=]+\\)" (1 font-lock-variable-name-face)
+     ("[~|$^*]?=\\([^]=]+\\)" nil nil (1 font-lock-string-face)))
+    ("&"       0 font-lock-constant-face)
+    ("\\.\\w+" 0 font-lock-type-face)
+    ("#\\w+"   0 font-lock-keyword-face)
+    ;; Pseudo-selectors, optionally with arguments (e.g. :first, :nth-child(12))
+    ("\\(::?\\w+\\)" (1 font-lock-variable-name-face)
+     ("(\\([^)]+\\))" nil nil (1 font-lock-string-face)))))
+(defconst sass-non-block-openers
+  '("^.*,$" ;; Continued selectors
+    "^ *@\\(extend\\|debug\\|warn\\|include\\|import\\)" ;; Single-line mixins
+    "^ *[$!]"     ;; Variables
+    ".*[^\s-]+: [^\s-]" ;; a setting of some sort
+    ))
+
+;;change active color
+(set-face-attribute  'mode-line
+                 nil 
+                 :foreground "gray80"
+                 :background "gray25" 
+                 :box '(:line-width 1 :style released-button))
+(set-face-attribute  'mode-line-inactive
+                 nil 
+                 :foreground "gray30"
+                 :background "gray55" 
+                 :box '(:line-width 1 :style released-button))
