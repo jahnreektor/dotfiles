@@ -1,0 +1,245 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/devbuild/working_dir/groups_ui/bower_components/bootstrap/" . "js/")
+ ("/home/devbuild/working_dir/phoenix/php/common/" . "tests/")
+ ("/home/devbuild/working_dir/phoenix/php/base/common/" . "dbclasses/")
+ ("/home/devbuild/working_dir/phoenix/static/" . "javascripts/")
+ ("/home/devbuild/working_dir/ui_core/app/components/" . "headers/")
+ ("/home/devbuild/working_dir/phoenix/php/base/templates/" . "css/")
+ ("/home/devbuild/working_dir/ui_core/app/" . "components/")
+ ("/home/devbuild/working_dir/ui_core/" . "app/")
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/" . "headers/")
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/" . "components/")
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/" . "app/")
+ ("/home/devbuild/working_dir/groups_ui/bower_components/" . "bootstrap/")
+ ("/home/devbuild/working_dir/groups_ui/groups/components/" . "pageOne/")
+ ("/home/devbuild/working_dir/account_ui/account/" . "scripts/")
+ ("/home/devbuild/working_dir/groups_ui/groups/assets/" . "images/")
+ ("/home/devbuild/working_dir/groups_ui/groups/" . "dist/")
+ ("/home/devbuild/working_dir/phoenix/php/base/workgroup/common/" . "dbclasses/")
+ ("/home/devbuild/working_dir/phoenix/php/controllers/" . "tests/")
+ ("/home/devbuild/working_dir/phoenix/php/base/workgroup/" . "tests/")
+ ("/home/devbuild/working_dir/phoenix/php/base/" . "templates/")
+ ("/home/devbuild/working_dir/account_ui/" . "account/")
+ ("/etc/httpd/" . "conf.d/")
+ ("/etc/" . "httpd/")
+ ("/opt/kavi/site/" . "temp-vm-102/")
+ ("/opt/kavi/" . "site/")
+ ("/opt/" . "kavi/")
+ ("/" . "etc/")
+ ("/home/devbuild/working_dir/groups_ui/app/components/" . "pageOne/")
+ ("/home/devbuild/working_dir/groups_ui/app/" . "styles/")
+ ("/home/devbuild/working_dir/groups_ui/" . "bower_components/")
+ ("/home/devbuild/working_dir/phoenix/php/" . "base/")
+ ("/home/devbuild/working_dir/phoenix/" . "php/")
+ ("/home/devbuild/working_dir/" . "groups_ui/")
+ ("/home/devbuild/dotfiles/" . ".emacs.d/")
+ ("/home/devbuild/" . "working_dir/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/devbuild/working_dir/groups_ui/"
+ "/home/devbuild/working_dir/groups_ui/groups/components/pageOne/"
+ "/home/devbuild/working_dir/phoenix/php/controllers/"
+ "/home/devbuild/working_dir/groups_ui/bower_components/bootstrap/js/"
+ "/home/devbuild/working_dir/groups_ui/groups/components/header/"
+ "/home/devbuild/working_dir/groups_ui/groups/styles/"
+ "/home/devbuild/working_dir/phoenix/php/base/templates/css/"
+ "/home/devbuild/working_dir/phoenix/php/common/tests/"
+ "/home/devbuild/working_dir/phoenix/php/base/workgroup/tests/"
+ "/home/devbuild/working_dir/phoenix/php/controllers/tests/"
+ "/home/devbuild/working_dir/ui_core/"
+ "/home/devbuild/working_dir/ui_core/app/components/headers/"
+ "/home/devbuild/working_dir/phoenix/static/styles/"
+ "/home/devbuild/"
+ "/home/devbuild/working_dir/phoenix/php/base/common/dbclasses/"
+ "/home/devbuild/working_dir/phoenix/php/base/templates/page/"
+ "/home/devbuild/working_dir/phoenix/php/base/workgroup/common/"
+ "/home/devbuild/working_dir/phoenix/php/views/"
+ "/home/devbuild/working_dir/"
+ "/home/devbuild/working_dir/groups_ui/groups/"
+ "/home/devbuild/working_dir/ui_core/app/components/services/"
+ "/home/devbuild/working_dir/groups_ui/groups/components/resources/"
+ "/home/devbuild/working_dir/phoenix/static/javascripts/"
+ "/home/devbuild/working_dir/ui_core/app/styles/"
+ "/home/devbuild/working_dir/ui_core/app/"
+ "/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/lists/"
+ "/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/pagination/"
+ "/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/headers/"
+ "/home/devbuild/working_dir/account_ui/account/"
+ "/home/devbuild/working_dir/account_ui/"
+ "/home/devbuild/working_dir/phoenix/php/base/workgroup/common/dbclasses/"
+ "/home/devbuild/working_dir/phoenix/php/common/"
+ "/home/devbuild/working_dir/groups_ui/app/styles/"
+ "/home/devbuild/working_dir/groups_ui/app/components/pageOne/"
+ "/home/devbuild/working_dir/groups_ui/app/"
+ "/home/devbuild/working_dir/account_ui/app/"
+ "/etc/httpd/conf.d/"
+ "/home/devbuild/working_dir/phoenix/"
+ "/home/devbuild/dotfiles/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.html"
+ "kaviFeed.directive.ts"
+ "activity_feed_controller.php"
+ "collapse.js"
+ "HeaderController.ts"
+ "filterText.directive.ts"
+ "groups_custom.scss"
+ "filter.html"
+ "custom.css.mustache"
+ "phpunit_test.inc"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/etc/httpd/conf.d/" (21898 62903 905016 669000) "kavi_ssl.conf" "kavi-groups_ui.conf.rpmnew" "php.conf" "mailgraph.conf" "welcome.conf" "ssl.conf" "./" "kavi-groups.conf~" "kavi-workspace.conf" "kavi-auth.conf" "kavi-web.conf" "kavi-monitor.conf" "kavi-account_ui.conf" "dont-serve.conf" "kavi-groups_ui.conf" "../" "README" "#kavi-groups.conf#" "kavi-custom.conf" "kavi-groups.conf")
+
+ ("/home/devbuild/working_dir/groups_ui/" (21899 8986 370600 373000) "test/" "groups/" "groups_ui_assets/" ".gitignore" ".sass-cache/" "./" "how" "tsd.json" "Gruntfile.js" "assets/" "docs/" ".git/" "README.md" "bower_components/" "../" "app/" "bower.json" "index.html" "#package.json#" "node_modules/" "package.json" "typings/" "tslint.json")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/styles/" (21899 11265 859072 285000) "groups_custom.scss" "./" ".#groups_custom.scss" "../" "#groups_custom.scss#")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/components/pageOne/" (21899 8982 937597 43000) "feedback_directive.ts" "feedback.html" "filterText.directive.ts" "feed_demo.scss" "./" "dashView.html" "filter.html" "kaviFeed.directive.ts" "tsconfig.json" "inputFormatter.directive.ts" "feed.html" "../" "FilterIntroController.ts")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/components/header/" (21898 64812 450824 568000) "./" "tsconfig.json" "../" "HeaderController.ts")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/bootstrap/js/" (21897 47411 682489 284000) "dropdown.js" ".jscsrc" "transition.js" "./" "collapse.js" "modal.js" "scrollspy.js" "alert.js" "affix.js" ".jshintrc" "button.js" "../" "carousel.js" "tooltip.js" "popover.js" "tab.js")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/bootstrap/" (21862 12282 438362 953000) ".bower.json" "LICENSE" "package.js" "./" "grunt/" "Gruntfile.js" "less/" "README.md" "dist/" "fonts/" "../" "js/" "bower.json" "package.json")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/" (21887 33424 76630 553000) "angular-bootstrap/" "ui-bootstrap/" "angulartics/" "json3/" "angular-cookie/" "angular-route/" "./" "angular/" "ui_core_copy/" "bootstrap/" "font-awesome/" "ui_core/" "angularitics/" "angular-resource/" "angular-sanitize/" "jquery/" "chosen/" "../" "angular-scenario/" "angular-mocks/" "angular-animate/" "waypoints/" "ui_core_copy_folder/" "intro.js/" "angular-touch/" "SHA-1/" "angular-intro.js/" "jquery.ui/" "es5-shim/")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/dist/" (21883 9098 169131 543000) "./" "groups_custom.css.map" "groups_custom.css" "../" "app.js" "app.js.map")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/templates/css/" (21891 1194 267496 539000) "./" "custom.css.mustache" "../")
+
+ ("/home/devbuild/dotfiles/.emacs.d/" (21892 32579 100347 511000) "node_emacs" "haml-mode.el" "js-config.el" "./" "elpa/" "magit-1.2.0/" "tramp" "sass-mode.el" "defuns-config.el" "linum.el" "web-mode.el" "color-theme.el" "TypeScript.el" "themes/" "whitespace.el" "eshell/" "../" "doremi-cmd.el" "php-mode.el" "js3-mode/" "jade-mode/" "ido.last~" "column-marker.el" "lisp/" "doremi.el" ".emacs.desktop" "js2-mode.el" "js-comint.el" "init.el" "ido.last" "ac-comphist.dat" "auto-save-list/" "bookmarks" "smooth-scrolling.el")
+
+ ("/home/devbuild/working_dir/phoenix/" (21892 39137 859425 789000) "static/" "how 75q" "symlink_dev.py" "setup.cfg" "test_fixtures/" "migrations/" "php/" ".gitignore" "pylintrc" "push_files.py" "composer.json" "README.rst" "./" "setup.py" "features/" "bootstrap/" "Gruntfile.js" "tests/" "assets/" "phpunit.xml" "requirements-testing.txt" "docs/" "requirements-docs.txt" ".git/" ".jshintignore" ".jshintrc" "../" "lint/" "package.json" "requirements.txt" "phpunit_func.xml" "kavi_groups/" "MANIFEST.in" "kavi_groups.egg-info/" "jshint.reporter.js")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/headers/" (21892 38317 151829 81000) "subNavBar.html" "main_header.css.map" "./" "header.html" "main_header.scss" "navBar.html" "../" "main_header.css")
+
+ ("/home/devbuild/working_dir/ui_core/app/" (21892 39062 965454 606000) "./" ".buildignore" "components/" "styles/" "../" "app.ts" "images/")
+
+ ("/home/devbuild/working_dir/ui_core/app/components/headers/" (21892 38317 151829 81000) "subNavBar.html" "main_header.css.map" "./" "header.html" "main_header.scss" "navBar.html" "../" "main_header.css")
+
+ ("/home/devbuild/working_dir/ui_core/" (21892 38317 156829 79000) "test/" ".gitignore" ".sass-cache/" "./" "tsd.json" "Gruntfile.js" ".git/" "../" "app/" "bower.json" "node_modules/" "package.json" "tslint.json")
+
+ ("/home/devbuild/working_dir/phoenix/php/controllers/tests/" (21892 39134 950426 882000) "./" "../" "logged_in_as_controller_ftest.php" "statistics_controller_ftest.php" "ckeditor_controller_ftest.php" "activity_feed_controller_ftest.php")
+
+ ("/home/devbuild/working_dir/phoenix/php/controllers/" (21892 39134 943426 884000) "./" "settings_comments_admin_controller.php" "site_controller.php" "ballot_question_admin_controller.php" "#activity_feed_controller.php#" "tests/" "base_controller.php" "statistics_controller.php" "ckeditor_controller.php" "logged_in_as_controller.php" "../" "my_moderation_controller.php" "activity_feed_controller.php")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/workgroup/common/" (21891 1194 269496 541000) "wg_search.inc" "email.inc" "comments.inc" "settings.inc" "incits.inc" "my_rss.inc" "documents.inc" "./" "groups.inc" "references.inc" "tabs.inc" "my_moderation.inc" "page_assets.inc" "dbsearch/" "publish.inc" "upload.inc" "folder.inc" "wg_search_result.inc" "download_utils.inc" "utilities.inc" "action_menu.inc" "tests/" "activity.inc" "statistics.inc" "session.inc" "dbclasses/" "static_path.inc" "breadcrumbs.inc" "documents_page_ctrl.inc" "report.inc" "portal_helper.inc" "filters.inc" "my_vcard.inc" "../" "project_view_helper.inc" "#my_rss.inc#" "my_vcalendar.inc" "std_images.inc" "project_page_ctrl.inc" "form_submit.inc" "ballot_options.inc" "event.inc" "zoho.inc" "my_workgroups.inc" "route.inc" "monitor.inc" "bulk_download.inc" "zip.inc" "calendar_display.inc" "project.inc" "company.inc" "audit.inc" "calendar_options.inc" "evote.inc" "ballots.inc" "mailing_list_allow.inc" "ajax_helper.inc" "icalendar.inc" "action_items.inc")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/templates/page/" (21891 1194 268496 540000) "footer.smarty.html" "_tabs.smarty.html" "./" "_banner_nav.smarty.html" "_notifications.smarty.html" "../" "header.smarty.html" "#_primary_nav.smarty.html#" "_primary_nav.smarty.html" "_secondary_nav.smarty.html")
+
+ ("/home/devbuild/working_dir/phoenix/php/common/tests/" (21880 40523 312244 47000) "datetime_helpers_ftest.php" "php_sux_less_test.php" "mailman_pages_ftest.php" "disk_usage_ftest.php" "./" "functionaltest.inc" "billing_data_ftest.php" "app_route_ftest.php" "phpunit_test.inc" "roster_ftest.php" "autoload_tables_test.php" "templater_test.php" "encryption_test.php" "better_unit_test_case.inc" "central_logging_test.php" "request_test.php" "exceptions_test.php" "php_datetime_fail_test.php" "rational_numbers_test.php" "unicode_test.php" "../" "templater_helpers_ftest.php" "format_utils_test.php" "cron_ftest.php" "autoload_test.php" "unittest.inc" "response_test.php" "central_logging_ftest.php" "mailman_ftest.php" "fn_test.php")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/workgroup/tests/" (21883 11912 180009 870000) "error_test_ftest.php" "workgroup_pages_ftest.php" "downloadable_calendar_testcase.php" "workgroup_vis_proj_ftest.php" "./" "workgroup_roles_ftest.php" "api_member_management_ftest.php" "project_tests/" "calendar_display_test.php" "ballots_pages_ftest.php" "bulk_comment_ftest.php" "timezone_ftest.php" "manage_ballot_ftest.php" "../" "calendar_display_ftest.php" "workgroup_test_fixtures.php" "calendar_tests/" "comments_ftest.php")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/workgroup/" (21880 40523 310244 41000) "messages.php" "portal/" "bulk_comments_download_csv.php" "join.php" "embed.php" "create_approval_ballot.php" "document_diff.php" "edit_voters.php" "./" "documents.php" "recent_documents.php" "message.php" "description.php" "event.php" "bulk_comments_download.php" "index.php" "tests/" "my/" "my_vcalendar_redirect.php" "add_ballot_comment.php" "bulk_comments_delete.php" "edit_ballot.php" "comments.php" "events.php" "document.php" "bulk_comments_update.php" "admin/" "ballot.php" "calendar.php" "public/" "edit_votes.php" "settings.php" "mail_to_person.php" "download.php" "../" "common/" "ballot_archive.php" "bulk_comment.php" "mail_to_wg.php" "no_access.php" "record_my_attendance.php" "manage_ballot.php" "get_comment_req.php" "error.php" "email_log.php" "custom/" "delete_message.php" "allowed_posters.php" "done_editing.php" "planned_attendance.php" "agreement.php" "folder/" "view_comment.php" "open_for_comment.php" "close_ballot.php" "manage/" "ballots.php" "members/" "get_ballot_template.php" "add_comment.php" "jots.php" "create_ballot.php" "delete_ballot.php")
+
+ ("/home/devbuild/" (21888 39925 872517 855000) ".npm/" ".bash_logout" ".bashrc" ".mysql_history" ".gitconfig" ".ccache/" ".emacs.d/" ".gnupg/" "./" "SVCS-1875.org" ".vimrc" ".vim/" ".mozilla/" "working_dir/" "rpmbuild/" "scvs-1898.org~" ".pki/" ".screenrc" ".bashrc~" "dotfiles/" ".viminfo" ".bash_profile~" ".cache/" ".bashrc_custom" ".bash_history" "source/" "bin/" "scvs-1898.org" ".pip/" ".gitignore-global" ".local/" "1875.org~" ".config/" "backup2.db" "../" ".pypirc" "mob.org" "README" "1875.org" ".node-gyp/" "secondary_nav_perm.org" ".tsd-cache/" ".rpmmacros" ".bash_profile" ".ssh/" ".bash_eternal_history" ".buildout/" ".pydistutils.cfg" "Makefile")
+
+ ("/home/devbuild/working_dir/account_ui/" (21887 17390 218147 386000) ".gitignore" "./" "tsd.json" "Gruntfile.js" "assets/" ".git/" "bower_components/" ".jshintrc" "../" "account/" "bower.json" "index.html" "node_modules/" "package.json" "typings/" "tslint.json")
+
+ ("/home/devbuild/working_dir/account_ui/account/" (21887 17390 218147 386000) "app.routeProvider.ts" "./" "components/" "app.module.ts" "styles/" "dist/" "../")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/pagination/" (21887 25509 411875 442000) "./" "main_pagination.css" "main_pagination.css.map" "controls.html" "../" "main_pagination.scss")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/lists/" (21887 25509 474875 465000) "main_lists.css" "./" "../" "main_lists.scss" "main_lists.css.map")
+
+ ("/home/devbuild/working_dir/ui_core/app/styles/" (21887 26754 82732 259000) ".sass-cache/" "./" "app_core.css" "archive/" "app_core.css.map" "../" "app_core.scss")
+
+ ("/home/devbuild/working_dir/ui_core/app/components/services/" (21887 25506 842874 496000) "./" "tsconfig.json" "BaseResource.ts" "../")
+
+ ("/home/devbuild/working_dir/" (21887 25501 17872 489000) "permissions/" "./" "phoenix/" "ui_core_copy/" "messaging/" "migrations_copy/" "email/" "ui_core/" "mailman/" "uicoregrunt/" "auth/" "clsq/" "groups_api/" "enrollment/" "gotoandadminmenu.org~" "ams/" "../" "account_ui/" "workgroup_test_fixtures.php" "web/" "cms/" "activity_feed_controller.php" "prodtools/" "activity_feed_controller_ftest.php" "gotoandadminmenu.org" "monitor/" "groups_ui/")
+
+ ("/home/devbuild/working_dir/ui_core/app/components/" (21887 26030 325125 163000) ".baseDir.ts" "errors/" "./" "menus/" "lists/" "headers/" "pagination/" "page/" "../" "routing/" "filters/" "services/")
+
+ ("/home/devbuild/working_dir/phoenix/php/" (21880 40523 313244 50000) "controllers/" "./" "scripts/" "base/" "app_route.php" "views/" "../" "common/" "pie.htc" "testhelpers/" "dotorg.inc")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/" (21883 12713 318568 539000) "app.routeProvider.ts" "google-analytics.js" "./" "groupsService.ts" "components/" "assets/" "app.module.ts" "styles/" "dist/" "../" "#app.routeProvider.ts#")
+
+ ("/home/devbuild/working_dir/phoenix/static/styles/" (21883 4802 479422 420000) "jBreadCrumb.css" "ws.css" "jquery-ui-1.8.17.custom.css" "./" "ws-ie7.css" "#ws.css#" "ws-ie6.css" "print.css" "../" "base.css" "ws-ie8.css" "collab.css")
+
+ ("/home/devbuild/working_dir/ui_core/app/components/filters/" (21883 14029 299608 523000) "./" "filters.html" "filterCtrl.ts" "../")
+
+ ("/home/devbuild/working_dir/phoenix/php/common/" (21880 40523 312244 47000) "mailman.inc" "gen_xls.inc" "roster.inc" "chart.inc" "captcha.php" "cron.php" "./" "format_utils.inc" "include_file.inc" "tests/" "billing_data.inc" "request.inc" "templater_helpers.inc" "disk_usage.inc" "unicode.inc" "date_calc.inc" "response.inc" "gen_csv.inc" "rational_numbers.inc" "dbclasses/" "templater.inc" "autoload.inc" "fn.inc" "dyn_css.php" "file_utils.inc" "exceptions.inc" "3rdparty/" "dynamic_css.inc" "../" "central_logging.inc" "reports.inc" "mlm.inc" "encryption.inc" "paginator.inc" "xml/" "php_sux_less.inc" "datetime_helpers.inc")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/workgroup/common/dbclasses/" (21880 40523 301244 15000) "o_project_metadata.inc" "o_pub_doc_metadata.inc" "o_document_comment_state.inc" "o_pub_doc_metafield.inc" "o_workgroup_person.inc" "o_vocab.inc" "o_jot.inc" "o_related_projects.inc" "o_project_metafield.inc" "o_settings.inc" "o_wg_reference.inc" "o_opensearch.inc" "o_calendar_event.inc" "o_folder.inc" "o_project_reference.inc" "o_vote_ballot_question_answer.inc" "o_submitted_form.inc" "o_tabs.inc" "o_publication_type.inc" "./" "o_interest_category.inc" "o_wg_item_share.inc" "o_email_log.inc" "o_template.inc" "o_published_document.inc" "o_action_item.inc" "o_eligible_voters.inc" "o_project_type.inc" "o_instruction.inc" "o_project_activity_owner.inc" "tests/" "o_dbsearch.inc" "o_ballot_question_answer.inc" "o_document_type.inc" "o_wg_public.inc" "o_workgroup.inc" "o_wg_mail.inc" "o_ballot_template_option.inc" "o_announcement.inc" "o_content_type.inc" "o_acceptance.inc" "o_calendar_event_type.inc" "o_project.inc" "o_ballot_question.inc" "o_ballot.inc" "o_document_comment_category.inc" "o_submitted_form_attachment.inc" "o_ballot_question_template.inc" "o_email_log_recipient.inc" "o_wg_share.inc" "../" "o_document_comment.inc" "o_vote.inc" "o_project_activity.inc" "o_workgroup_allow_restricted.inc" "o_invitee.inc" "o_ballot_template_question.inc" "o_calendar.inc" "o_workgroup_role.inc" "o_access_token.inc" "o_ballot_template.inc" "o_document.inc" "o_lock.inc" "o_document_reservation.inc" "o_agreement.inc" "o_event_attendance.inc" "o_pending_request.inc" "o_ballot_option.inc" "o_document_comment_response.inc" "o_ballot_question_answer_template.inc" "o_time_zone.inc" "o_document_state.inc")
+
+ ("/home/devbuild/working_dir/phoenix/php/views/" (21880 40523 473244 517000) "my_moderation_view.php" "./" "ballot_question_admin_view.php" "header_view.php~" "settings_comments_admin_view.php" "../" "ckeditor_view.php" "header_view.php")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/common/dbclasses/" (21880 40523 293243 990000) "o_person.inc" "o_api_person.inc" "./" "o_stats.inc" "_fb_metadata.inc" "o_company.inc" "tests/" "o_organization.inc" "o_login_record.inc" "o_custom_css.inc" "o_person_company.inc" "o_cron_run.inc" "../" "o_member_type.inc" "_fb_metafield.inc" "o_mailing_list.inc" "formbuilder.inc")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/common/" (21854 25982 994251 57000) "organization.inc" "auth.inc" "validate.inc" "./" "css_value.inc" "tests/" "dbclasses/" "../" "http_utils.inc" "helpers.inc")
+
+ ("/home/devbuild/working_dir/ui_core/app/components/page/" (21850 28879 307518 257000) "main_page.scss" "./" "../")
+
+ ("/home/devbuild/working_dir/ui_core/app/components/lists/" (21850 28879 307518 257000) "accounts.ts" "./" "accounts.js" "../" "main_lists.scss" "accounts.html")
+
+ ("/home/devbuild/working_dir/phoenix/static/javascripts/" (21868 38181 985309 841000) "reports_common.js" "jquery.jBreadCrumb.1.1.js" "ktimeline.js" "form-builder.js" "ballot-question.js" "add-doc-modal.js" "filters.js" "jquery-ui-1.8.17.custom.min.js" "pub-types.js" "raphael/" "jquery.js" "modify-pub-data.js" "./" "moment.min.js" "QapTcha.jquery.js" "toastr/" "jquery.cookie.js" "view-comment-common.js" "functions.js" "ie9.js" "dependent-dates.js" "reference-items.js" "kwsGlobal.js" "ballot-details.js" "activity-admin.js" "project-common.js" "timeline_2.3.0/" "project-admin.js" "document-common.js" "comment-common.js" "ckeditor/" ".jslintignore" "publish-document.js" "kws/" "jquery-ui-1.8.12.full.min.js" "chosen/" "bulk_actions/" "expand.js" "related-projects.js" "jquery-ui.min.js" "../" "folder-sharing.js" "#kwsGlobal.js#" "add-edit-ballot.js" "jquery.placeholder.js" "jquery.expander.js" "datePicker.js" "tooltip.js" "jquery-1.7.1.js" "action_menu.js" "group-home.js" "flyouts.js" "folder.js" "event-common.js" "jquery.quicksearch.js" "settings-comments.js" "my-moderation.js" "ansi-forms-common.js" "jquery.simpleFAQ-0.7.min.js" "ballot-common.js" "jquery.form.js" "chart-helper.js" "autocolumn.min.js" "PIE.js")
+
+ ("/home/devbuild/working_dir/phoenix/static/" (21850 21706 790147 801000) "./" "styles/" "javascripts/" "../" "help/" "images/")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/templates/" (21850 21706 411146 494000) "layouts/" "css/" "./" "wg_references/" "folders/" "formbuilder/" "notifications/" "my/" "email/" "publications/" "page/" "kws/" "admin/" "public/" "workgroup/" "roster/" "../" "projects/" "reports/" "documents/" "action_items/" "events/" "help/" "comments/" "ical/" "utils/" "ballots/")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/page/" (21862 12271 0 0) "main_page.scss" "./" "../")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/" (21862 12271 0 0) "errors/" "./" "lists/" "headers/" "pagination/" "page/" "../" "filters/" "services/" "demos/")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/" (21862 12271 0 0) "./" ".buildignore" "components/" "styles/" "../" "app.ts" "images/")
+
+ ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/" (21862 12282 366363 21000) "test/" ".gitignore" ".bower.json" "./" "tsd.json" "Gruntfile.js" "../" "app/" "bower.json" "package.json" "tslint.json")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/components/resources/" (21862 11306 204964 651000) "./" "../" "LoggedInUser.ts")
+
+ ("/home/devbuild/working_dir/groups_ui/app/" (21862 11306 209964 653000) "./" "dist/" "../")
+
+ ("/home/devbuild/working_dir/account_ui/account/scripts/" (21855 28647 480259 464000) "controllers/" "./" "../" "app.ts" "services/")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/components/" (21862 11306 197964 649000) "./" "resources/" "pageOne/" "../" "header/")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/assets/images/" (21862 11306 208964 653000) "project_activity_icon_25.png" "ballot_icon_25.png" "notif_warning_icon_25.png" "documents_icon_25.png" "./" "groups_icon_25.png" "action_item_icon_25.png" "../" "x.png" "notif_announcement_icon_25.png" "calendar_icon_25.png")
+
+ ("/home/devbuild/working_dir/groups_ui/groups/assets/" (21862 11306 195964 648000) "./" "../" "images/")
+
+ ("/home/devbuild/working_dir/groups_ui/assets/" (21850 28889 767447 656000) "./" "filetree/" "../")
+
+ ("/home/devbuild/working_dir/groups_ui/app/styles/" (21859 39692 993443 13000) "groups_custom.scss" "./" "../")
+
+ ("/home/devbuild/working_dir/phoenix/php/base/" (21850 21706 509146 832000) "./" "index.php" "templates/" "auth/" "kws/" "admin/" "workgroup/" "../" "common/" "workgroup_feeds/")
+
+ ("/home/devbuild/working_dir/groups_api/" (21850 22749 954246 37000) "setup.cfg" ".gitignore" "pylintrc" "README.rst" "./" "setup.py" "tests/" "assets/" "kavi_groups_api.egg-info/" "requirements-testing.txt" "docs/" "requirements-docs.txt" ".git/" ".egg" "../" "kavi_groups_api/" "requirements.txt" "MANIFEST.in")
+
+ ("/home/devbuild/working_dir/account_ui/app/" (21854 27328 693965 579000) "app.core.js" "main.js" "__init__.py" "./" "404.html" ".buildignore" "scripts/" "lib/" "robots.txt" "templates/" "img/" "styles/" "app.main.js" "app.router.js" "views/" "plugins/" "../" "favicon.ico" "index.html" ".htaccess" "images/")
+
+ ("/etc/httpd/" (21850 19464 594986 712000) "conf/" "./" "conf.d/" "modules/" "../" "logs/" "run/")
+
+ ("/etc/" (21854 9059 969436 371000) ".java/" "dracut.conf.d/" "sestatus.conf" "localtime" "odbc.ini" "certmonger/" "autofs.conf" "idmapd.conf" "vimrc" "supervisor.conf" "ld.so.cache" "ntop.conf" "libvirt/" "hosts.allow" "readahead.conf" "profile.d/" "init/" "lvm/" "nscd.conf" "hal/" "logrotate.d/" "nsswitch.conf" "minicom.users" "rwtab.d/" "libpaper.d/" "numad.conf" "mysql_grants.sql" "fstab" "php.d/" "gnome-vfs-2.0/" "incron.d/" "chkconfig.d/" "smart/" "statetab.d/" "init.d/" "mtab" "quotagrpadmins" "at.deny" "amanda/" "latrace.conf" "auto.misc" "bashrc" "foomatic/" "networks" "papersize" "xdg/" "prelink.conf" "libuser.conf" "depmod.d/" "auto.master" "pcmcia/" "clamd.conf" "nrpe.d/" "audit/" "gssapi_mech.conf" "sudo.conf" "oddjob/" "mime.types" "java/" "gconf/" "amavisd.conf" "logrotate.conf" "bonobo-activation/" "php.ini" "pam_ldap.conf" "krb5.conf" "lsb-release" "cups/" "GeoIP.conf" "ltrace.conf" "portreserve/" "nfsmount.conf" "rpm/" "aide.conf" "sudoers" "profile" "cron.daily/" "updatedb.conf" "mailcap" "warnquota.conf" "redis/" "pear.conf" "ntp.conf" "magic" "supervisord.conf" "rabbitmq/" "ntop/" "sudoers.d/" "iproute2/" "ipa/" "motd.orig" "elinks.conf" "rpc" "hosts.deny" "screenrc" "fprintd.conf" "pm/" "rearj.cfg" "oddjobd.conf" "cgconfig.conf" "wgetrc" "rc2.d/" "request-key.conf" "modprobe.d/" "gshadow-" "nslcd.conf" "auto.smb" "sysconfig/" "crypttab" "securetty" "plymouth/" "jvm-commmon/" "gpm-twiddler.conf" "gnupg/" "mail/" "nanorc" "dbus-1/" "asound.conf" "cgconfig.d/" "pam.d/" "NetworkManager/" "selinux/" "jvm/" "gshadow" "mysql/" "environment" "man.config" "ld.so.conf" "libreport/" "favicon.png" "hosts" "rc.local" "sgml/" "rc3.d/" "polkit-1/" "crontab" "rc5.d/" "rsyslog.d/" "freshclam.conf" "shadow-" "rwtab" "cas.conf" "blkid/" "yum.repos.d/" "issue.net" "xinetd.d/" "shadow" "rc6.d/" "default/" "shells" "openldap/" "issue" "ntp/" "group" "mail.rc" "postfix/" "ssh/" "motd.tail" "sasl2/" "passwd" "fstab.pre-kickstart" "gpm-syn.conf" "sos.conf" "cgrules.conf" "exports" "fonts/" "xinetd.conf" "my.cnf" "Trolltech.conf" "gcrypt/" "rc.d/" "udev/" "inittab" "sssd/" "cron.weekly/" "netconfig" "quotatab" "rc0.d/" "samba/" "odbcinst.ini" "nagios/" "cron.monthly/" "kdump-adv-conf/" "cron.deny" "motd" "apt/" "pulse/" "alsa/" "dracut.conf" "xpdf/" "grub.conf" "csh.login" "host.conf" "setuptool.d/" "skel/" "smartd.conf" "prelink.conf.d/" "chef/" "mke2fs.conf" "rc.sysinit" "DIR_COLORS.256color" "incron.conf" "adjtime" "aliases.db" "scl/" "yum.conf" "acpi/" "oddjobd.conf.d/" "csh.cshrc" "cgsnapshot_blacklist.conf" "security/" "ld.so.conf.d/" "redis.conf" "auto.net" "anacrontab" "DIR_COLORS" "rc4.d/" "filesystems" "centos-release" "login.defs" "popt.d/" "drirc" "DIR_COLORS.lightbgcolor" "makedev.d/" "aliases" "dcc/" "ethers" "yp.conf" "yum/" "nginx/" "rsyslog.conf" "passwd-" "snmp/" "dhcp/" "ppp/" "chef-managed" "lsb-release.d/" "xpdfrc" ".pwd.lock" "cron.d/" "audisp/" "cron.hourly/" "alternatives/" "maven/" "bash_completion" "httpd/" "abrt/" "pinforc" "pango/" "kdump.conf" "gpm-root.conf" "ghostscript/" "inputrc" "ssl/" "statetab" "sysctl.conf" "ConsoleKit/" "bash_completion.d/" "pm-utils-hd-apm-restore.conf" "virc" "X11/" "incron.allow" "prelink.cache" "redhat-lsb/" "request-key.d/" "rc1.d/" "pkcs11/" "group-" "event.d/" "resolv.conf" "xml/" "pear/" "services" "supervisord.d/" "protocols" "mercurial/" "system-release" "libaudit.conf" "automysqlbackup/" "sudo-ldap.conf" "terminfo/" "rc" "printcap" "redhat-release" "autofs_ldap_auth.conf" "system-release-cpe" "pki/" "gai.conf" "mcelog/" "opt/" "latrace.d/" "../" "./")
+
+ ("/opt/kavi/site/temp-vm-102/" (21852 53553 803016 478000) "./" "avatars/" "image/" "../" "content/" "config.yaml" "admin_config.yaml")
+
+ ("/opt/kavi/site/" (21850 19863 811626 484000) "./" "temp-vm-102/" "../")
+
+ ("/opt/kavi/etc/" (21850 19764 278890 710000) "site_map.yaml" "./" "../" "config.yaml" "pki/")
+
+ ("/opt/kavi/" (21850 19502 222102 1000) "etc/" "./" "lib/" "service/" "bin/" "../" "include/" "share/" "content/" "customer/" "site/" "lib64/" "tools/")
+
+ ("/opt/" (21850 19502 204101 945000) "./" "rh/" "../" "chef/" "kavi/")
+
+ ("/home/devbuild/working_dir/groups_ui/app/components/pageOne/" (21854 25285 357390 424000) "filterText.directive.ts" "./" "dashView.html" "filter.html" "kaviFeed.directive.ts" "inputFormatter.directive.ts" "feed.html" "../" "kaviFeed.directive.js" "FilterIntroController.ts" "filterText.directive.js")
+
+ ("/home/devbuild/working_dir/groups_ui/app/components/" (21850 28889 766447 663000) "./" "resources/" "pageOne/" "../" "header/")
+
+ ("/home/devbuild/dotfiles/" (21850 26947 526380 363000) ".bashrc" ".emacs.d/" "./" ".screenrc" ".bashrc_custom" ".git/" "README.md" "../" ".bash_profile")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

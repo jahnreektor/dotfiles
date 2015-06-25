@@ -1,4 +1,28 @@
-((("transcludedChoices" .
+((("groups" .
+   [1 0 0 0 0 0])
+  ("output" .
+   [1 0 0 0 0 0])
+  ("$records" .
+   [3 0 0 0 0 0 0 0])
+  ("$row" .
+   [1 0 0 0])
+  ("false" .
+   [4 0 0 0 0])
+  ("DATE_W3C" .
+   [0 0 0 0 1 0 0 0])
+  ("format" .
+   [1 0 0 0 0 0])
+  ("default_time_zone" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("$this" .
+   [2 0 0 0 0])
+  ("setTimeZone" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("$reminder_date" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("new" .
+   [1 0 0])
+  ("transcludedChoices" .
    [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
   ("placeholder" .
    [0 0 0 0 1 0 0 0 0 0 0])
@@ -53,4 +77,32 @@
   ("return" .
    [1 0 0 0 0 0])
   ("function" .
-   [1 0 0 0 0 0 0 0])))
+   [2 0 0 0 0 0 0 0])
+  ("$item" .
+   [2 0 0 0 0])
+  ("$item_types" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  ("$dotorg" .
+   [1 0 0 0 0 0 0])
+  ("is_manage_group_membership_disabled" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("true" .
+   [2 0 0 0])
+  ("$organization" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("workgroup_comment" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("var_dump" .
+   [0 0 0 0 0 0 1 0])
+  ("$json_result" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("this" .
+   [1 0 0 0])
+  ("t" .
+   [1])
+  ("$result" .
+   [1 0 0 0 0 0 0])
+  ("$now_date" .
+   [1 0 0 0 0 0 0 0 0])
+  ("options" .
+   [1 0 0 0 0 0 0])))
