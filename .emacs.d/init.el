@@ -309,3 +309,6 @@
                  :foreground "white"
                  :background "black" 
                  :box '(:line-width 1 :style released-button))
+
+;;handlebars mode
+(require 'handlebars-mode)

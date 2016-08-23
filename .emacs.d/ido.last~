@@ -41,8 +41,6 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/ssh:root@jrichter01.jrichter-um-vm01.kavi:"
- "/ssh:devbuild@jrichter01.jrichter-um-vm01.kavi:"
  "/home/devbuild/working_dir/groups_ui/"
  "/home/devbuild/working_dir/groups_ui/groups/components/pageOne/"
  "/home/devbuild/working_dir/phoenix/php/controllers/"
@@ -95,12 +93,11 @@
  "groups_custom.scss"
  "filter.html"
  "custom.css.mustache"
+ "phpunit_test.inc"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Applications/Emacs.app/Contents/Resources/info/" (21800 6518 0 0) "woman.info.gz" "wisent.info.gz" "widget.info.gz" "viper.info.gz" "vip.info.gz" "url.info.gz" "tramp.info.gz" "todo-mode.info.gz" "srecode.info.gz" "speedbar.info.gz" "smtpmail.info.gz" "sieve.info.gz" "ses.info.gz" "semantic.info.gz" "sc.info.gz" "sasl.info.gz" "remember.info.gz" "reftex.info.gz" "rcirc.info.gz" "pgg.info.gz" "pcl-cvs.info.gz" "org.info.gz" "octave-mode.info.gz" "nxml-mode.info.gz" "newsticker.info.gz" "mh-e.info.gz" "message.info.gz" "mairix-el.info.gz" "info.info.gz" "ido.info.gz" "idlwave.info.gz" "htmlfontify.info.gz" "gnus.info.gz" "forms.info.gz" "flymake.info.gz" "eww.info.gz" "eudc.info.gz" "eshell.info.gz" "ert.info.gz" "erc.info.gz" "epa.info.gz" "emacs.info.gz" "emacs-mime.info.gz" "emacs-gnutls.info.gz" "elisp.info.gz" "eintr.info.gz" "eieio.info.gz" "efaq.info.gz" "edt.info.gz" "ediff.info.gz" "ede.info.gz" "ebrowse.info.gz" "dired-x.info.gz" "dir" "dbus.info.gz" "cl.info.gz" "ccmode.info.gz" "calc.info.gz" "bovine.info.gz" "autotype.info.gz" "auth.info.gz" "ada-mode.info.gz" "../" "./")
-
  ("/etc/httpd/conf.d/" (21898 62903 905016 669000) "kavi_ssl.conf" "kavi-groups_ui.conf.rpmnew" "php.conf" "mailgraph.conf" "welcome.conf" "ssl.conf" "./" "kavi-groups.conf~" "kavi-workspace.conf" "kavi-auth.conf" "kavi-web.conf" "kavi-monitor.conf" "kavi-account_ui.conf" "dont-serve.conf" "kavi-groups_ui.conf" "../" "README" "#kavi-groups.conf#" "kavi-custom.conf" "kavi-groups.conf")
 
  ("/home/devbuild/working_dir/groups_ui/" (21899 8986 370600 373000) "test/" "groups/" "groups_ui_assets/" ".gitignore" ".sass-cache/" "./" "how" "tsd.json" "Gruntfile.js" "assets/" "docs/" ".git/" "README.md" "bower_components/" "../" "app/" "bower.json" "index.html" "#package.json#" "node_modules/" "package.json" "typings/" "tslint.json")

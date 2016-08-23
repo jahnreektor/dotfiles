@@ -1,10 +1,8 @@
-;; -*- emacs-lisp -*- <15/03/09 21:32:32 /home/ubuntu/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <16/07/29 17:01:38 /Users/johnrichter/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
-((["su" "grunt-cli" "localhost" nil nil]
-  nil)
- (["sudo" "root" "localhost" nil nil]
+((["sudo" "root" "localhost" nil nil]
   ("uname" "Linux 3.11.0-12-generic")
   ("test" "test")
   ("remote-path"
@@ -15,4 +13,19 @@
   ("readlink" "\\readlink")
   ("stat" "\\stat")
   ("id" "/usr/bin/id")
-  ("gid-integer" 0)))
+  ("gid-integer" 0))
+ (["ssh" "root" "jrichter01.jrichter-um-vm01.kavi" nil]
+  ("uname" "Linux 2.6.32-573.18.1.el6.x86_64")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/usr/sbin" "/usr/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/root")
+  ("file-exists" "test -e")
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t)
+  ("stat" "\\stat")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 0))
+ (["ssh" "putaprice" "192.185.4.129" nil nil]
+  nil))
