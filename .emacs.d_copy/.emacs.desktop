@@ -1,0 +1,128 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Feb 14 00:00:09 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("convertTime" "timest" "report" "getLive" "getLi" "render" "console"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/dotfiles/.emacs.d/" "~/.emacs.d/init.el" "/home/ubuntu/org-mode/Keyboard-Shortcuts.org" "/home/ubuntu/kagen-app/http-server/public/kagen-allergy-map-live-data/index.html" "~/.bash_profile" "/home/ubuntu/kagen-app/http-server/public/kagen-allergy-map-live-data/main.js" "/home/ubuntu/kagen-app/http-server/public/kagen-allergy-map/main.js" "/home/ubuntu/org-mode/beard/allergy_map/Project_Notes.org" "/home/ubuntu/kagen-app-cordova/www/scripts/d3-allergy/visualization.js" "/home/ubuntu/kagen-app-cordova/Gruntfile.js" "/home/ubuntu/kagen-app-cordova/server.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/ubuntu/dotfiles/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  nil
+  5466
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/kagen-app/http-server/public/kagen-allergy-map-live-data/main.js"
+  "main.js"
+  'js-mode
+  nil
+  3895
+  '(3547 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/org-mode/Keyboard-Shortcuts.org"
+  "Keyboard-Shortcuts.org"
+  'org-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/kagen-app/http-server/public/kagen-allergy-map-live-data/index.html"
+  "index.html"
+  'web-mode
+  nil
+  1073
+  '(370 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/kagen-app-cordova/www/scripts/d3-allergy/visualization.js"
+  "visualization.js"
+  'js-mode
+  nil
+  24957
+  '(2717 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/org-mode/beard/allergy_map/Project_Notes.org"
+  "Project_Notes.org"
+  'org-mode
+  nil
+  2643
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/dotfiles/.bash_profile"
+  ".bash_profile"
+  'sh-mode
+  nil
+  2702
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/kagen-app/http-server/public/kagen-allergy-map/main.js"
+  "main.js"
+  'js-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/kagen-app-cordova/Gruntfile.js"
+  "Gruntfile.js"
+  'js-mode
+  nil
+  3346
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/kagen-app-cordova/server.js"
+  "server.js"
+  'js-mode
+  nil
+  1236
+  '(2336 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+

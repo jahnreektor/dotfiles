@@ -1,4 +1,5 @@
 term xterm-color
+term screen-256color
 # GNU Screen configuration file
 # Balaji S. Srinivasan <balajis@stanford.edu>
 #

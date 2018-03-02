@@ -1,11 +1,11 @@
-
+(setq vc-handled-backends nil)
 ;; -*- mode: emacs-lisp -*-
 ;; Simple .emacs configuration
 
 ;; ---------------------
 ;; -- Global Settings --
 ;; ---------------------
-(add-to-list 'load-path "~/.emacs.d")
+(add-to-list 'load-path "~/.emacs.d/lisp")
 (require 'cl)
 (require 'ido)
 (require 'ffap)
@@ -13,7 +13,7 @@
 (require 'ansi-color)
 (require 'recentf)
 (require 'linum)
-(require 'smooth-scrolling)
+;; (require 'smooth-scrolling)
 (require 'whitespace)
 (require 'dired-x)
 (require 'compile)
@@ -46,8 +46,7 @@
  '(region ((((class color) (min-colors 8)) (:background "white" :foreground "magenta"))))
  '(secondary-selection ((((class color) (min-colors 8)) (:background "gray" :foreground "cyan"))))
  '(show-paren-match ((((class color) (background light)) (:background "black"))))
- '(vertical-border ((t nil)))
- )
+ '(vertical-border ((t nil))))
 
 ;; ------------
 ;; -- Macros --
@@ -71,11 +70,6 @@
 ;; -- JS Mode configuration --
 ;; ---------------------------
 (load "js-config.el")
-(add-to-list 'load-path "~/.emacs.d/jade-mode") ;; github.com/brianc/jade-mode
-(require 'sws-mode)
-(require 'jade-mode)    
-(add-to-list 'auto-mode-alist '("\\.styl$" . sws-mode))
-(add-to-list 'auto-mode-alist '("\\.jade$" . jade-mode))
 
 (iswitchb-mode 1)
 ;;iswitchb ignore
@@ -95,7 +89,7 @@
 			     (local-set-key (kbd "RET") 'newline-and-indent)))
 ;;WEB MODE!
 
-(require 'web-mode)
+;; (require 'web-mode)
 (add-to-list 'auto-mode-alist '("\\.phtml\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.tpl\\.php\\.inc\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.jsp\\'" . web-mode))
@@ -111,9 +105,6 @@
   (setq web-mode-markup-indent-offset 2)
   (setq web-mode-code-indent-offset 2)
   )
-
-					;change emacs indent level of js mode
-(setq js-indent-level 4)
 
 
 (global-set-key (kbd "S-C-<left>") 'shrink-window-horizontally)
@@ -161,10 +152,10 @@
 ;;(add-hook 'java-mode-hook (lambda ()
 ;;                              (setq c-basic-offset 4)))
 
-(add-hook 'java-mode-hook (lambda ()
-			    (setq c-basic-offset 4
-				  tab-width 4
-				  indent-tabs-mode t)))
+;; (add-hook 'java-mode-hook (lambda ()
+;; 			    (setq c-basic-offset 4
+;; 				  tab-width 4
+;; 				  indent-tabs-mode t)))
 ;; highlight matching bracket
 ;;(setq show-paren-delay 0)
 ;;    (show-paren-mode 1)
@@ -182,7 +173,7 @@
 (require 'doremi-cmd)
 
 ;; line numbers on by default
-(global-linum-mode 1)
+;; (global-linum-mode 1)
 
 
 ;;phpmode
@@ -210,16 +201,11 @@
 (require 'yasnippet)
 (yas-global-mode 1)
 
-;;; auto complete mod
-;;; should be loaded after yasnippet so that they can work together
-(require 'auto-complete-config)
-(add-to-list 'ac-dictionary-directories "~/.emacs.d/ac-dict")
-(ac-config-default)
 ;;; set the trigger key so that it can work together with yasnippet on tab key,
 ;;; if the word exists in yasnippet, pressing tab will cause yasnippet to
 ;;; activate, otherwise, auto-complete will
-(ac-set-trigger-key "TAB")
-(ac-set-trigger-key "<tab>")
+;; (ac-set-trigger-key "TAB")
+;; (ac-set-trigger-key "<tab>")
 
 
 ;; Typescript
@@ -299,16 +285,33 @@
     ))
 
 ;;change active color
-(set-face-attribute  'mode-line
-                 nil 
-                 :foreground "blue"
-                 :background "white" 
-                 :box '(:line-width 1 :style released-button))
-(set-face-attribute  'mode-line-inactive
-                 nil 
-                 :foreground "white"
-                 :background "black" 
-                 :box '(:line-width 1 :style released-button))
+;; (set-face-attribute  'mode-line
+;; 		     nil 
+;; 		     ;; :foreground "blue"
+;; 		     :background "white" 
+;; 		     :box '(:line-width 1 :style released-button))
+;; (set-face-attribute  'mode-line-inactive
+;; 		     nil 
+;; 		     :foreground "white"
+;; 		     :background "black" 
+;; 		     :box '(:line-width 1 :style released-button))
 
 ;;handlebars mode
 (require 'handlebars-mode)
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(custom-enabled-themes nil)
+ '(custom-safe-themes
+   (quote
+    ("45482e7ddf47ab1f30fe05f75e5f2d2118635f5797687e88571842ff6f18b4d5" default))))
+
+(setq-default indent-tabs-mode nil)
+
+;; indent javascript mode by 2 spaces
+(setq js-indent-level 2)
+
+(put 'dired-find-alternate-file 'disabled nil)
+(setq-default indent-tabs-mode nil)

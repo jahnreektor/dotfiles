@@ -2,6 +2,151 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/john.richter/Projects/op-payments/details/" . "latest/")
+ ("/Users/john.richter/Projects/op-common/feature/channel-selection/" . "locales/")
+ ("/Users/john.richter/Projects/movil/app/scripts/" . "controllers/")
+ ("/Users/john.richter/Projects/op-common/feature/" . "channel-selection/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/disbursement/channel-selection/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/admin/" . "views/")
+ ("/Users/john.richter/Projects/adm-admin/views/" . "partials/")
+ ("/Users/john.richter/Projects/adm-admin/" . "controllers/")
+ ("/Users/john.richter/Projects/opr-verification/" . "locales/")
+ ("/Users/john.richter/Projects/op-common/control/notes/theme/" . "slate/")
+ ("/Users/john.richter/Projects/op-common/control/notes/" . "theme/")
+ ("/Users/john.richter/Projects/op-common/control/" . "notes/")
+ ("/Users/john.richter/Projects/op-common/" . "feature/")
+ ("/Users/john.richter/Projects/sto-loan-app/services/" . "view-model/")
+ ("/Users/john.richter/Projects/sto-loan-app/" . "locales/")
+ ("/Users/john.richter/Projects/op-payments/highlights-bar/" . "latest/")
+ ("/Users/john.richter/Projects/op-payments/payment-processing/latest/" . "locales/")
+ ("/Users/john.richter/Projects/op-payments/payment-processing/" . "latest/")
+ ("/Users/john.richter/Projects/op-payments/" . "payment-processing/")
+ ("/Users/john.richter/Projects/ngzeus/app/scripts/components/" . "processProgress/")
+ ("/Users/john.richter/Projects/opr-document-control/" . "services/")
+ ("/Users/john.richter/Projects/movil/app/" . "scripts/")
+ ("/Users/john.richter/Projects/movil/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/ach-authorization/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/login/" . "view-model/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/payment-reversal/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/payment-history/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/store-locations/" . "locales/")
+ ("/Users/john.richter/Projects/test/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/production-support/" . "controllers/")
+ ("/Users/john.richter/Projects/ngzeus/test/modules/customer-master/customer-search/" . "components/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/customer-master/customer-search/" . "components/")
+ ("/Users/john.richter/Projects/ngzeus/test/modules/customer-master/customer-profile/" . "components/")
+ ("/Users/john.richter/Projects/ngzeus/test/modules/customer-master/" . "customer-search/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/cash-reconciliation/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/test/spec/" . "services/")
+ ("/Users/john.richter/Projects/ngzeus/test/modules/common/feature/" . "payment-reversal/")
+ ("/Users/john.richter/Projects/ngzeus/test/modules/common/" . "feature/")
+ ("/Users/john.richter/Projects/ngzeus/test/modules/payments/" . "payment-processing/")
+ ("/Users/john.richter/Projects/ngzeus/test/modules/" . "payments/")
+ ("/Users/john.richter/Projects/ngzeus/test/" . "modules/")
+ ("/Users/john.richter/Projects/ngzeus/node_modules/" . "money-math/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/details/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/loan-app/activity-bar/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/customer-master/customer-profile/" . "components/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/customer-master/" . "customer-search/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/bank-account-edit/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/bank-accounts/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/recurring-profile/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/" . "payment-reversal/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/bank-accounts/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/views/" . "partials/")
+ ("/Users/john.richter/Projects/ngzeus_master_stores_7-14/app/modules/common/loan-app/" . "activity-bar/")
+ ("/Users/john.richter/Projects/ngzeus_master_stores_7-14/app/modules/loan-app/" . "views/")
+ ("/Users/john.richter/Projects/ngzeus_master_stores_7-14/app/modules/common/layout/" . "tab/")
+ ("/Users/john.richter/Projects/ngzeus_master_stores_7-14/app/modules/common/" . "loan-app/")
+ ("/Users/john.richter/Projects/ngzeus_master_stores_7-14/app/modules/" . "common/")
+ ("/Users/john.richter/Projects/ngzeus_master_stores_7-14/app/scripts/" . "directives/")
+ ("/Users/john.richter/Projects/ngzeus_master_stores_7-14/app/" . "modules/")
+ ("/Users/john.richter/Projects/ngzeus_master_stores_7-14/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/ach-return-codes/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/payment-reversal/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus_lad_copy_6-23/app/scripts/" . "directives/")
+ ("/Users/john.richter/Projects/ngzeus_lad_copy_6-23/app/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus_lad_copy_6-23/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/recurring-profile/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/bower_components/bootstrap-sass-official/vendor/assets/stylesheets/" . "bootstrap/")
+ ("/Users/john.richter/Projects/ngzeus/app/bower_components/bootstrap-sass-official/vendor/assets/" . "stylesheets/")
+ ("/Users/john.richter/Projects/ngzeus/app/bower_components/bootstrap-sass-official/vendor/" . "assets/")
+ ("/Users/john.richter/Projects/ngzeus/app/bower_components/bootstrap-sass-official/" . "vendor/")
+ ("/Users/john.richter/Projects/nzeus_feature-payments-merge-simple_5-29/app/modules/payments/" . "payment-processing/")
+ ("/Users/john.richter/Projects/nzeus_feature-payments-merge-simple_5-29/app/modules/" . "payments/")
+ ("/Users/john.richter/Projects/nzeus_feature-payments-merge-simple_5-29/app/" . "modules/")
+ ("/Users/john.richter/Projects/nzeus_feature-payments-merge-simple_5-29/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus_new_ui_pmts-264/app/modules/payments/" . "payment-processing/")
+ ("/Users/john.richter/Projects/ngzeus_new_ui_pmts-264/app/modules/common/layout/" . "tab/")
+ ("/Users/john.richter/Projects/ngzeus_new_ui_pmts-264/app/modules/common/" . "layout/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/styles/" . "common/")
+ ("/Users/john.richter/Projects/ngzeus/.tmp/" . "styles/")
+ ("/Users/john.richter/Projects/ngzeus_new_ui_pmts-264/app/modules/" . "payments/")
+ ("/Users/john.richter/Projects/ngzeus_new_ui_pmts-264/app/" . "modules/")
+ ("/Users/john.richter/Projects/ngzeus_new_ui_pmts-264/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus/dist/" . "styles/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/payment-receipt/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/payment-processing/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/.git/" . "info/")
+ ("/Users/john.richter/Projects/ngzeus_copy_5-9_feature-payments/app/" . "styles/")
+ ("/Users/john.richter/Projects/ngzeus_copy_5-9_feature-payments/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus_copy_5-2-2/app/" . "scripts/")
+ ("/Users/john.richter/Projects/ngzeus_copy_5-2-2/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus_5-4/app/scripts/" . "controllers/")
+ ("/Users/john.richter/Projects/ngzeus_5-4/app/" . "scripts/")
+ ("/Users/john.richter/Projects/ngzeus_5-4/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/highlights-bar/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/manual-fraud-handling/highlights-bar/" . "slate/")
+ ("/Users/john.richter/Projects/ngzeus/payments_3-23/" . "payment-processing/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/manual-fraud-handling/custom-controls/" . "toggle/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/disbursement/" . "channel-selection/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/disbursement/controllers/" . "modals/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/disbursement/" . "controllers/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/services/" . "view-model/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/layout/" . "tab-new-ui/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/" . "styles/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/document-control/" . "services/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/modal/" . "notify-modal/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/collections/services/" . "view-model/")
+ ("/Users/john.richter/Projects/convert/" . "properties/")
+ ("/Users/john.richter/Projects/collections/apps/" . "conf/")
+ ("/Users/john.richter/Projects/collections/" . "apps/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/collections/" . "locales/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/model/" . "core/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/services/" . "view-model/")
+ ("/Users/john.richter/Projects/ngzeus/app/scripts/" . "services/")
+ ("/Users/john.richter/Projects/quick-payments/app/scripts/" . "controllers/")
+ ("/Users/john.richter/Projects/quick-payments/app/" . "scripts/")
+ ("/Users/john.richter/Projects/quick-payments/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus/app/vendor/" . "money-math/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/loan-app/summary/" . "info/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/loan-app/" . "activity-bar/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/" . "disbursement/")
+ ("/Users/john.richter/dotfiles/" . ".emacs.d/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/" . "views/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/verification/" . "views/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/agent-dashboard/views/" . "partials/")
+ ("/Users/john.richter/Projects/ngzeus/app/bower_components/" . "bootstrap-sass-official/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/search/" . "styles/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/" . "loan-app/")
+ ("/Users/john.richter/Projects/ngzeus/app/" . "modules/")
+ ("/Users/john.richter/Projects/ngzeus/" . "app/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/manual-fraud-handling/" . "main/")
+ ("/usr/local/etc/nginx/" . "sites-available/")
+ ("/usr/local/etc/" . "nginx/")
+ ("/usr/local/" . "etc/")
+ ("/usr/" . "local/")
+ ("/Users/john.richter/Projects-Learning/thinkstertut/src/js/" . "auth/")
+ ("/Users/john.richter/Projects-Learning/thinkstertut/src/" . "js/")
+ ("/Users/john.richter/Projects-Learning/thinkstertut/" . "src/")
+ ("/Users/john.richter/Projects-Learning/" . "thinkster-to-app/")
+ ("/Users/john.richter/Projects/quick-payments-john/app/" . "components/")
+ ("/Users/john.richter/Projects-Learning/thinkster-to-app/src/" . "js/")
+ ("/Users/john.richter/Projects-Learning/thinkster-to-app/" . "src/")
+ ("/Users/john.richter/Projects/quick-payments-john/" . "app/")
+ ("/Users/john.richter/Projects/" . "op-payments/")
+ ("/Users/john.richter/" . "dotfiles/")
+ ("/Users/john.richter/Projects-Learning/thinkster-to-app/src/js/" . "config/")
  ("/home/devbuild/working_dir/groups_ui/bower_components/bootstrap/" . "js/")
  ("/home/devbuild/working_dir/phoenix/php/common/" . "tests/")
  ("/home/devbuild/working_dir/phoenix/php/base/common/" . "dbclasses/")
@@ -28,7 +173,7 @@
  ("/opt/kavi/site/" . "temp-vm-102/")
  ("/opt/kavi/" . "site/")
  ("/opt/" . "kavi/")
- ("/" . "etc/")
+ ("/" . "usr/")
  ("/home/devbuild/working_dir/groups_ui/app/components/" . "pageOne/")
  ("/home/devbuild/working_dir/groups_ui/app/" . "styles/")
  ("/home/devbuild/working_dir/groups_ui/" . "bower_components/")
@@ -41,207 +186,273 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/ssh:root@jrichter01.jrichter-um-vm01.kavi:"
- "/ssh:devbuild@jrichter01.jrichter-um-vm01.kavi:"
- "/home/devbuild/working_dir/groups_ui/"
- "/home/devbuild/working_dir/groups_ui/groups/components/pageOne/"
- "/home/devbuild/working_dir/phoenix/php/controllers/"
- "/home/devbuild/working_dir/groups_ui/bower_components/bootstrap/js/"
- "/home/devbuild/working_dir/groups_ui/groups/components/header/"
- "/home/devbuild/working_dir/groups_ui/groups/styles/"
- "/home/devbuild/working_dir/phoenix/php/base/templates/css/"
- "/home/devbuild/working_dir/phoenix/php/common/tests/"
- "/home/devbuild/working_dir/phoenix/php/base/workgroup/tests/"
- "/home/devbuild/working_dir/phoenix/php/controllers/tests/"
- "/home/devbuild/working_dir/ui_core/"
- "/home/devbuild/working_dir/ui_core/app/components/headers/"
- "/home/devbuild/working_dir/phoenix/static/styles/"
- "/home/devbuild/"
- "/home/devbuild/working_dir/phoenix/php/base/common/dbclasses/"
- "/home/devbuild/working_dir/phoenix/php/base/templates/page/"
- "/home/devbuild/working_dir/phoenix/php/base/workgroup/common/"
- "/home/devbuild/working_dir/phoenix/php/views/"
- "/home/devbuild/working_dir/"
- "/home/devbuild/working_dir/groups_ui/groups/"
- "/home/devbuild/working_dir/ui_core/app/components/services/"
- "/home/devbuild/working_dir/groups_ui/groups/components/resources/"
- "/home/devbuild/working_dir/phoenix/static/javascripts/"
- "/home/devbuild/working_dir/ui_core/app/styles/"
- "/home/devbuild/working_dir/ui_core/app/"
- "/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/lists/"
- "/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/pagination/"
- "/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/headers/"
- "/home/devbuild/working_dir/account_ui/account/"
- "/home/devbuild/working_dir/account_ui/"
- "/home/devbuild/working_dir/phoenix/php/base/workgroup/common/dbclasses/"
- "/home/devbuild/working_dir/phoenix/php/common/"
- "/home/devbuild/working_dir/groups_ui/app/styles/"
- "/home/devbuild/working_dir/groups_ui/app/components/pageOne/"
- "/home/devbuild/working_dir/groups_ui/app/"
- "/home/devbuild/working_dir/account_ui/app/"
- "/etc/httpd/conf.d/"
- "/home/devbuild/working_dir/phoenix/"
- "/home/devbuild/dotfiles/.emacs.d/"
+ "/Users/john.richter/dotfiles/.emacs.d/"
+ "/Users/john.richter/Projects/op-payments/payment-processing/latest/"
+ "/Users/john.richter/Projects/op-payments/details/latest/"
+ "/Users/john.richter/Projects/op-payments/highlights-bar/latest/"
+ "/Users/john.richter/Projects/movil/app/scripts/"
+ "/Users/john.richter/Projects/movil/app/scripts/controllers/"
+ "/Users/john.richter/Projects/movil/app/views/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/loan-app/views/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/loan-app/controllers/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/common/disbursement/channel-selection/"
+ "/Users/john.richter/Projects/op-common/feature/channel-selection/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/common/disbursement/channel-selection/locales/"
+ "/Users/john.richter/Projects/op-common/feature/channel-selection/locales/"
+ "/Users/john.richter/Projects/op-common/locales/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/loan-app/locales/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/loan-app/services/view-model/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/verification/views/"
+ "/Users/john.richter/Projects/op-common/control/notes/"
+ "/Users/john.richter/Projects/op-common/control/notes/theme/slate/"
+ "/Users/john.richter/Projects/sto-loan-app/controllers/"
+ "/Users/john.richter/Projects/sto-loan-app/locales/"
+ "/Users/john.richter/Projects/stores/"
+ "/Users/john.richter/Projects/sto-loan-app/route/"
+ "/Users/john.richter/Projects/sto-loan-app/views/"
+ "/Users/john.richter/Projects/op-common/model/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/admin/views/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/admin/locales/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/admin/controllers/"
+ "/Users/john.richter/Projects/adm-admin/controllers/"
+ "/Users/john.richter/Projects/adm-admin/views/partials/"
+ "/Users/john.richter/Projects/adm-admin/views/"
+ "/Users/john.richter/Projects/admin/"
+ "/Users/john.richter/Projects/adm-admin/"
+ "/Users/john.richter/Projects/opr-verification/locales/"
+ "/Users/john.richter/Projects/op-common/control/validation/"
+ "/Users/john.richter/Projects/op-common/control/activity-bar/"
+ "/Users/john.richter/Projects/op-common/control/notes/locales/"
+ "/Users/john.richter/Projects/sto-loan-app/services/view-model/"
+ "/Users/john.richter/Projects/sto-loan-app/"
+ "/Users/john.richter/Projects/op-payments/"
+ "/Users/john.richter/Projects/op-payments/payment-processing/latest/locales/"
+ "/Users/john.richter/Projects/"
+ "/Users/john.richter/Projects/ngzeus/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/common/data/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/loan-app/services/"
+ "/Users/john.richter/Projects/ngzeus/app/scripts/components/wizard/"
+ "/Users/john.richter/Projects/ngzeus/app/scripts/components/processProgress/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/loan-app/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/document-control/services/"
+ "/Users/john.richter/Projects/ngzeus/app/modules/document-control/controllers/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "index.html"
- "kaviFeed.directive.ts"
- "activity_feed_controller.php"
- "collapse.js"
- "HeaderController.ts"
- "filterText.directive.ts"
- "groups_custom.scss"
- "filter.html"
- "custom.css.mustache"
+ "init.el"
+ "paymentProcessingPartial.html"
+ "detailsComponent.js"
+ "detailsPartial.html"
+ "highlightsBarComponent.js"
+ "app.js"
+ "paymentsHighlightsBarCtrl.js"
+ "change-selection.js"
+ "receive-funds.html"
+ "change-selection.html"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Applications/Emacs.app/Contents/Resources/info/" (21800 6518 0 0) "woman.info.gz" "wisent.info.gz" "widget.info.gz" "viper.info.gz" "vip.info.gz" "url.info.gz" "tramp.info.gz" "todo-mode.info.gz" "srecode.info.gz" "speedbar.info.gz" "smtpmail.info.gz" "sieve.info.gz" "ses.info.gz" "semantic.info.gz" "sc.info.gz" "sasl.info.gz" "remember.info.gz" "reftex.info.gz" "rcirc.info.gz" "pgg.info.gz" "pcl-cvs.info.gz" "org.info.gz" "octave-mode.info.gz" "nxml-mode.info.gz" "newsticker.info.gz" "mh-e.info.gz" "message.info.gz" "mairix-el.info.gz" "info.info.gz" "ido.info.gz" "idlwave.info.gz" "htmlfontify.info.gz" "gnus.info.gz" "forms.info.gz" "flymake.info.gz" "eww.info.gz" "eudc.info.gz" "eshell.info.gz" "ert.info.gz" "erc.info.gz" "epa.info.gz" "emacs.info.gz" "emacs-mime.info.gz" "emacs-gnutls.info.gz" "elisp.info.gz" "eintr.info.gz" "eieio.info.gz" "efaq.info.gz" "edt.info.gz" "ediff.info.gz" "ede.info.gz" "ebrowse.info.gz" "dired-x.info.gz" "dir" "dbus.info.gz" "cl.info.gz" "ccmode.info.gz" "calc.info.gz" "bovine.info.gz" "autotype.info.gz" "auth.info.gz" "ada-mode.info.gz" "../" "./")
+ ("/Users/john.richter/dotfiles/.emacs.d/" (23193 47673 0 0) "snippets/" "lisp/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" ".emacs.desktop" ".emacs.d" "../" "./")
 
- ("/etc/httpd/conf.d/" (21898 62903 905016 669000) "kavi_ssl.conf" "kavi-groups_ui.conf.rpmnew" "php.conf" "mailgraph.conf" "welcome.conf" "ssl.conf" "./" "kavi-groups.conf~" "kavi-workspace.conf" "kavi-auth.conf" "kavi-web.conf" "kavi-monitor.conf" "kavi-account_ui.conf" "dont-serve.conf" "kavi-groups_ui.conf" "../" "README" "#kavi-groups.conf#" "kavi-custom.conf" "kavi-groups.conf")
+ ("/Users/john.richter/Projects/op-payments/" (23192 35993 0 0) "views/" "theme/" "test/" "route/" "recurring-profile/" "paymentsService.js" "paymentsCtrl.v1.js" "paymentsCtrl.js" "payment-reversal/" "payment-receipt/" "payment-processing/" "payment-locations/" "payment-history/" "payment-confirm/" "package.json" "op-payments.js" "node_modules/" "karma.conf.js" "karma.conf.files.js" "index.html" "highlights-bar/" "Gruntfile.js" "downloadService.js" "dist/" "details/" "cfg/" "cash-reconciliation/" "build.files.json" "build.env.js" "bank-accounts/" "bank-account-edit/" "app.js" "ach-return-codes/" ".tmp/" ".gitignore~" ".gitignore" ".git/" ".editorconfig" ".build_names" ".build_containers" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/" (21899 8986 370600 373000) "test/" "groups/" "groups_ui_assets/" ".gitignore" ".sass-cache/" "./" "how" "tsd.json" "Gruntfile.js" "assets/" "docs/" ".git/" "README.md" "bower_components/" "../" "app/" "bower.json" "index.html" "#package.json#" "node_modules/" "package.json" "typings/" "tslint.json")
+ ("/Users/john.richter/Projects/op-common/control/activity-bar/" (23192 23230 0 0) "theme/" "locales/" "activityBarPartial.html" "activityBarComponent.js" "activityBar.js" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/styles/" (21899 11265 859072 285000) "groups_custom.scss" "./" ".#groups_custom.scss" "../" "#groups_custom.scss#")
+ ("/Users/john.richter/Projects/op-common/locales/" (23192 23230 0 0) "locale-es.json" "locale-en-US.json" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/components/pageOne/" (21899 8982 937597 43000) "feedback_directive.ts" "feedback.html" "filterText.directive.ts" "feed_demo.scss" "./" "dashView.html" "filter.html" "kaviFeed.directive.ts" "tsconfig.json" "inputFormatter.directive.ts" "feed.html" "../" "FilterIntroController.ts")
+ ("/Users/john.richter/Projects/op-common/feature/channel-selection/" (23192 23230 0 0) "theme/" "locales/" "channelSelectionPartial.html~" "channelSelectionPartial.html" "channelSelectionDirective.js~" "channelSelectionDirective.js" "channelSelection.js" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/components/header/" (21898 64812 450824 568000) "./" "tsconfig.json" "../" "HeaderController.ts")
+ ("/Users/john.richter/Projects/movil/app/views/" (23193 44206 0 0) "terms.html" "takehome.html" "summary.html" "status.html" "status-bounced-requirements.html" "returning.html" "results.html" "residence.html" "reset-pin.html" "requirements.html" "references.html" "receive-funds.html~" "receive-funds.html" "privacy.html" "privacy-policy.html" "pre-approved.html" "phone.html" "personal.html" "payment-reminders.html" "password-reset.html" "not_available.html" "not_approved.html" "multifactor.html" "modals/" "main.html" "login.html" "loan-disclosures.html" "lead.html" "landing.html" "info-tip.html" "info-box.html" "income.html" "image-upload.html" "image-camera-button.html" "identity-confirm.html" "identification.html" "how-it-works.html" "header.html" "get-started.html" "footer.html" "footer-bar.html" "find-a-store.html" "find-a-store-selected.html" "find-a-store-item.html" "finances.html" "final_approval.html" "faq.html" "expired_canceled.html" "esign-sign-document.html" "esign-show-term.html" "esign-show-error.html" "esign-redirect-landing-page.html" "esign-preview-document.html" "esign-ping-listener.html" "esign-howto-print-save-loan.html" "esign-event-viewing-completed.html" "esign-event-signing-timeout.html" "esign-event-signing-failed.html" "esign-event-signing-declined.html" "esign-event-signing-completed.html" "esign-event-signing-canceled.html" "esign-confirm-term.html" "esign-auto-pay.html" "done.html" "document-submit.html" "disclosures.html" "debt.html" "date-picker.html" "credit-auth.html" "credit-auth-lock.html" "cookies.html" "continue-or-retry.html" "contact.html" "composite-upload.html" "complete-store.html" "complete-photo.html" "complete-later.html" "complete-email.html" "collapsible.html" "change-selection.html~" "change-selection.html" "call-us.html" "attention-item.html" "address.html" "account-info.html" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/bootstrap/js/" (21897 47411 682489 284000) "dropdown.js" ".jscsrc" "transition.js" "./" "collapse.js" "modal.js" "scrollspy.js" "alert.js" "affix.js" ".jshintrc" "button.js" "../" "carousel.js" "tooltip.js" "popover.js" "tab.js")
+ ("/Users/john.richter/Projects/movil/app/scripts/" (23193 44206 0 0) "services/" "filters/" "factories/" "directives/" "controllers/" "app.js" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/bootstrap/" (21862 12282 438362 953000) ".bower.json" "LICENSE" "package.js" "./" "grunt/" "Gruntfile.js" "less/" "README.md" "dist/" "fonts/" "../" "js/" "bower.json" "package.json")
+ ("/Users/john.richter/Projects/op-payments/highlights-bar/latest/" (23192 35995 0 0) "paymentsHighlightsBarCtrl.js" "paymentsHighlightsBar.html" "locales/" "highlightsBarComponent.js" "highlightsBar.js" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/" (21887 33424 76630 553000) "angular-bootstrap/" "ui-bootstrap/" "angulartics/" "json3/" "angular-cookie/" "angular-route/" "./" "angular/" "ui_core_copy/" "bootstrap/" "font-awesome/" "ui_core/" "angularitics/" "angular-resource/" "angular-sanitize/" "jquery/" "chosen/" "../" "angular-scenario/" "angular-mocks/" "angular-animate/" "waypoints/" "ui_core_copy_folder/" "intro.js/" "angular-touch/" "SHA-1/" "angular-intro.js/" "jquery.ui/" "es5-shim/")
+ ("/Users/john.richter/Projects/op-payments/payment-processing/latest/" (23192 35995 0 0) "paymentsProcessingCtrl.js~" "paymentProcessingViewModelService.js~" "paymentProcessingViewModelService.js" "paymentProcessingPartial.html" "paymentProcessingCtrl.js~" "paymentProcessingCtrl.js" "paymentProcessingComponent.js" "paymentProcessing.js" "locales/" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/dist/" (21883 9098 169131 543000) "./" "groups_custom.css.map" "groups_custom.css" "../" "app.js" "app.js.map")
+ ("/Users/john.richter/dotfiles/" (23193 46672 0 0) "README.md" "git-completion.bash" ".screenrc~" ".screenrc" ".git/" ".emacs.d_copy/" ".emacs.d/" ".bashrc~" ".bashrc_custom~" ".bashrc_custom" ".bashrc" ".bash_profile" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/templates/css/" (21891 1194 267496 539000) "./" "custom.css.mustache" "../")
+ ("/Users/john.richter/" (23193 43726 0 0) "workspace/" "VirtualBox VMs/" "todo.rtf" "sites-enabled/" "Public/" "Projects-Learning/" "Projects/" "progressmerge" "Pictures/" "other/" "op-emails.txt" "OC_relaunch/" "Music/" "Movies/" "Mexico_September/" "listoffilesthatchanged" "listoffielsthatchangedwithnotes~" "listoffielsthatchangedwithnotes" "lift_shift_todo.org~" "lift_shift_todo.org" "Library/" "git" "gameplan" "exemptionsPage.js" "emailgen.sh~" "emailgen.sh" "Downloads/" "dotfiles/" "Documents/" "Desktop/" "Creative Cloud Files/" "chrome-wo-sec/" "breakingtheframe.rtf" "blog/" "backup-untracked.tar" "Applications/" ".vscode/" ".v8flags.5.0.71.52.john.richter.json" ".Trash/" ".ssh/" ".sqlworkbench/" ".skipbuddy" ".screenrc" ".oracle_jre_usage/" ".nvm/" ".npmrc" ".npm/" ".node-gyp/" ".node-completion/" ".local/" ".lesshst" ".gitconfig~" ".gitconfig" ".gem/" ".emacs.d~/" ".emacs.d/" ".DS_Store" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bundle/" ".bower/" ".bashrc_custom" ".bashrc" ".bash_sessions/" ".bash_profile.macports-saved_2016-06-06_at_12:02:56" ".bash_profile.macports-saved_2016-06-06_at_11:59:29" ".bash_profile" ".bash_history" ".bash_eternal_history" ".anyconnect" ".3T/" "#.screenrc#" "../" "./")
 
- ("/home/devbuild/dotfiles/.emacs.d/" (21892 32579 100347 511000) "node_emacs" "haml-mode.el" "js-config.el" "./" "elpa/" "magit-1.2.0/" "tramp" "sass-mode.el" "defuns-config.el" "linum.el" "web-mode.el" "color-theme.el" "TypeScript.el" "themes/" "whitespace.el" "eshell/" "../" "doremi-cmd.el" "php-mode.el" "js3-mode/" "jade-mode/" "ido.last~" "column-marker.el" "lisp/" "doremi.el" ".emacs.desktop" "js2-mode.el" "js-comint.el" "init.el" "ido.last" "ac-comphist.dat" "auto-save-list/" "bookmarks" "smooth-scrolling.el")
+ ("/Users/john.richter/Projects/movil/" (23193 44270 0 0) "test/" "package.json" "node_modules/" "maintenance.html" "karma.conf.js" "karma-e2e.conf.js" "gruntstart.js" "Gruntfile.js" "conf/" "bower.json" "app/" ".travis.yml" ".tmp/" ".sass-cache/" ".jshintrc" ".gitignore~" ".gitignore" ".gitattributes" ".git/" ".editorconfig" ".DS_Store" ".bowerrc" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/" (21892 39137 859425 789000) "static/" "how 75q" "symlink_dev.py" "setup.cfg" "test_fixtures/" "migrations/" "php/" ".gitignore" "pylintrc" "push_files.py" "composer.json" "README.rst" "./" "setup.py" "features/" "bootstrap/" "Gruntfile.js" "tests/" "assets/" "phpunit.xml" "requirements-testing.txt" "docs/" "requirements-docs.txt" ".git/" ".jshintignore" ".jshintrc" "../" "lint/" "package.json" "requirements.txt" "phpunit_func.xml" "kavi_groups/" "MANIFEST.in" "kavi_groups.egg-info/" "jshint.reporter.js")
+ ("/Users/john.richter/Projects/op-payments/details/latest/" (23129 9093 0 0) "locales/" "detailsPartial.html" "detailsCtrl.js" "detailsComponent.js" "details.js" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/headers/" (21892 38317 151829 81000) "subNavBar.html" "main_header.css.map" "./" "header.html" "main_header.scss" "navBar.html" "../" "main_header.css")
+ ("/Users/john.richter/Projects/op-payments/details/" (23129 9093 0 0) "v1/" "latest/" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/app/" (21892 39062 965454 606000) "./" ".buildignore" "components/" "styles/" "../" "app.ts" "images/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/document-control/services/" (23188 33044 0 0) "session-store.js" "loanapp.js" "folders-in-box.js" "documentaudit.js" "document-upload.js" "box.js~" "box.js" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/app/components/headers/" (21892 38317 151829 81000) "subNavBar.html" "main_header.css.map" "./" "header.html" "main_header.scss" "navBar.html" "../" "main_header.css")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/" (23188 33101 0 0) "views/" "test/" "styles/" "services/" "locales/" "loanAppRouting.js" "loan-app.js" "directives/" "controllers/" "#loanAppRouting.js#" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/" (21892 38317 156829 79000) "test/" ".gitignore" ".sass-cache/" "./" "tsd.json" "Gruntfile.js" ".git/" "../" "app/" "bower.json" "node_modules/" "package.json" "tslint.json")
+ ("/Users/john.richter/Projects/ngzeus/app/scripts/components/wizard/" (23188 33213 0 0) "wizardStepDirective.js" "WizardStep.js" "wizardPreviousButtonDirective.js" "wizardNextButtonDirective.js" "wizardComponent.js~" "wizardComponent.js" "wizard.js" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/controllers/tests/" (21892 39134 950426 882000) "./" "../" "logged_in_as_controller_ftest.php" "statistics_controller_ftest.php" "ckeditor_controller_ftest.php" "activity_feed_controller_ftest.php")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/services/" (23188 33213 0 0) "view-model/" "processStrategy.js" "processService.js" "leadAddressCache.js" "frozenProfileService.js" "financeService.js" "declineModal.js" "dashboardService.js" "customerMatch.js" "creditauthService.js" "contactService.js" "contactInfoService.js" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/controllers/" (21892 39134 943426 884000) "./" "settings_comments_admin_controller.php" "site_controller.php" "ballot_question_admin_controller.php" "#activity_feed_controller.php#" "tests/" "base_controller.php" "statistics_controller.php" "ckeditor_controller.php" "logged_in_as_controller.php" "../" "my_moderation_controller.php" "activity_feed_controller.php")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/data/" (23188 33213 0 0) "securityDataService.js" "searchResultDataService.js" "referenceDataService.js" "rachBankAccountDataService.js" "paymentsDataService.js~" "paymentsDataService.js" "paymentReminderDataService.js" "paymentOptionDataService.js" "loanAppDataService.js~" "loanAppDataService.js" "leadDataService.js" "incomeDataService.js" "identificationDocumentDataService.js" "financeDataService.js" "disbursementOptionDataService.js" "disbursementDataService.js" "dataFactory.js" "data.js" "creditauthDataService.js" "contactInfoDataService.js" "contactDetailsDataService.js" "collectionsClientDataService.js" "closestStoreDataService.js" "clientSearchResultDataService.js" "clientDataService.js" "channelDataService.js" "bindingModels.js" "bankAccountDataService.js" "applicantDataService.js" "agentDataService.js" "addressDataService.js" "#paymentsDataService.js#" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/workgroup/common/" (21891 1194 269496 541000) "wg_search.inc" "email.inc" "comments.inc" "settings.inc" "incits.inc" "my_rss.inc" "documents.inc" "./" "groups.inc" "references.inc" "tabs.inc" "my_moderation.inc" "page_assets.inc" "dbsearch/" "publish.inc" "upload.inc" "folder.inc" "wg_search_result.inc" "download_utils.inc" "utilities.inc" "action_menu.inc" "tests/" "activity.inc" "statistics.inc" "session.inc" "dbclasses/" "static_path.inc" "breadcrumbs.inc" "documents_page_ctrl.inc" "report.inc" "portal_helper.inc" "filters.inc" "my_vcard.inc" "../" "project_view_helper.inc" "#my_rss.inc#" "my_vcalendar.inc" "std_images.inc" "project_page_ctrl.inc" "form_submit.inc" "ballot_options.inc" "event.inc" "zoho.inc" "my_workgroups.inc" "route.inc" "monitor.inc" "bulk_download.inc" "zip.inc" "calendar_display.inc" "project.inc" "company.inc" "audit.inc" "calendar_options.inc" "evote.inc" "ballots.inc" "mailing_list_allow.inc" "ajax_helper.inc" "icalendar.inc" "action_items.inc")
+ ("/Users/john.richter/Projects/ngzeus/" (23188 33213 0 0) "zeus-lan.dev.oportun.io.key" "zeus-lan.dev.oportun.io.csr" "zeus-lan.dev.oportun.io.crt" "test/" "paymentsProcessingCtrlCopy.js~" "package.json~" "package.json" "oct1.org~" "node_modules/" "locale-es.json~" "locale-en-US.json~" "karma.conf.js" "karma.conf.files.js" "karma-e2e.conf.js" "gruntstart.js" "Gruntfile.js~" "Gruntfile.js" "dist/" "coverage/" "conf/" "bower.json" "app/" ".travis.yml" ".tmp/" ".sass-cache/" ".modules" ".jshintrc" ".gitignore~" ".gitignorepersonal~" ".gitignore" ".gitattributes" ".git/" ".editorconfig" ".DS_Store" ".bowerrc" "#paymentsProcessingCtrlCopy.js#" "#compare4#" "#compare2#" "#*scratch*#" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/templates/page/" (21891 1194 268496 540000) "footer.smarty.html" "_tabs.smarty.html" "./" "_banner_nav.smarty.html" "_notifications.smarty.html" "../" "header.smarty.html" "#_primary_nav.smarty.html#" "_primary_nav.smarty.html" "_secondary_nav.smarty.html")
+ ("/Users/john.richter/Projects/sto-loan-app/services/view-model/" (23184 36474 0 0) "summaryService.js~" "summaryService.js" "referenceService.js" "nameService.js" "incomeService.js" "identificationService.js~" "identificationService.js" "financeService.js" "disbursementService.js" "detailsService.js" "creditauthService.js" "contactInfoService.js" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/common/tests/" (21880 40523 312244 47000) "datetime_helpers_ftest.php" "php_sux_less_test.php" "mailman_pages_ftest.php" "disk_usage_ftest.php" "./" "functionaltest.inc" "billing_data_ftest.php" "app_route_ftest.php" "phpunit_test.inc" "roster_ftest.php" "autoload_tables_test.php" "templater_test.php" "encryption_test.php" "better_unit_test_case.inc" "central_logging_test.php" "request_test.php" "exceptions_test.php" "php_datetime_fail_test.php" "rational_numbers_test.php" "unicode_test.php" "../" "templater_helpers_ftest.php" "format_utils_test.php" "cron_ftest.php" "autoload_test.php" "unittest.inc" "response_test.php" "central_logging_ftest.php" "mailman_ftest.php" "fn_test.php")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/admin/controllers/" (23188 33101 0 0) "userManagementCtrl.js~" "userManagementCtrl.js" "userCreateEditCtrl.js" "channelManagementCtrl.js" "channelEditCtrl.js" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/workgroup/tests/" (21883 11912 180009 870000) "error_test_ftest.php" "workgroup_pages_ftest.php" "downloadable_calendar_testcase.php" "workgroup_vis_proj_ftest.php" "./" "workgroup_roles_ftest.php" "api_member_management_ftest.php" "project_tests/" "calendar_display_test.php" "ballots_pages_ftest.php" "bulk_comment_ftest.php" "timezone_ftest.php" "manage_ballot_ftest.php" "../" "calendar_display_ftest.php" "workgroup_test_fixtures.php" "calendar_tests/" "comments_ftest.php")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/admin/locales/" (23188 33213 0 0) "locale-es.json~" "locale-es.json" "locale-en-US.json~" "locale-en-US.json" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/workgroup/" (21880 40523 310244 41000) "messages.php" "portal/" "bulk_comments_download_csv.php" "join.php" "embed.php" "create_approval_ballot.php" "document_diff.php" "edit_voters.php" "./" "documents.php" "recent_documents.php" "message.php" "description.php" "event.php" "bulk_comments_download.php" "index.php" "tests/" "my/" "my_vcalendar_redirect.php" "add_ballot_comment.php" "bulk_comments_delete.php" "edit_ballot.php" "comments.php" "events.php" "document.php" "bulk_comments_update.php" "admin/" "ballot.php" "calendar.php" "public/" "edit_votes.php" "settings.php" "mail_to_person.php" "download.php" "../" "common/" "ballot_archive.php" "bulk_comment.php" "mail_to_wg.php" "no_access.php" "record_my_attendance.php" "manage_ballot.php" "get_comment_req.php" "error.php" "email_log.php" "custom/" "delete_message.php" "allowed_posters.php" "done_editing.php" "planned_attendance.php" "agreement.php" "folder/" "view_comment.php" "open_for_comment.php" "close_ballot.php" "manage/" "ballots.php" "members/" "get_ballot_template.php" "add_comment.php" "jots.php" "create_ballot.php" "delete_ballot.php")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/admin/views/" (23188 33213 0 0) "users.html~" "users.html" "users-create-edit.html" "partials/" "channel.html" "channel-edit.html" "../" "./")
 
- ("/home/devbuild/" (21888 39925 872517 855000) ".npm/" ".bash_logout" ".bashrc" ".mysql_history" ".gitconfig" ".ccache/" ".emacs.d/" ".gnupg/" "./" "SVCS-1875.org" ".vimrc" ".vim/" ".mozilla/" "working_dir/" "rpmbuild/" "scvs-1898.org~" ".pki/" ".screenrc" ".bashrc~" "dotfiles/" ".viminfo" ".bash_profile~" ".cache/" ".bashrc_custom" ".bash_history" "source/" "bin/" "scvs-1898.org" ".pip/" ".gitignore-global" ".local/" "1875.org~" ".config/" "backup2.db" "../" ".pypirc" "mob.org" "README" "1875.org" ".node-gyp/" "secondary_nav_perm.org" ".tsd-cache/" ".rpmmacros" ".bash_profile" ".ssh/" ".bash_eternal_history" ".buildout/" ".pydistutils.cfg" "Makefile")
+ ("/Users/john.richter/Projects/sto-loan-app/views/" (23184 36706 0 0) "wizard.html" "summary.html~" "summary.html" "references.html" "name.html~" "name.html" "modals/" "income.html" "identification.html~" "identification.html" "finances.html" "disbursement.html" "details.html~" "details.html" "credit-auth.html" "contact-info.html~" "contact-info.html" "../" "./")
 
- ("/home/devbuild/working_dir/account_ui/" (21887 17390 218147 386000) ".gitignore" "./" "tsd.json" "Gruntfile.js" "assets/" ".git/" "bower_components/" ".jshintrc" "../" "account/" "bower.json" "index.html" "node_modules/" "package.json" "typings/" "tslint.json")
+ ("/Users/john.richter/Projects/sto-loan-app/controllers/" (23184 36698 0 0) "wizard.js" "summaryCtrl.js~" "summaryCtrl.js" "referenceCtrl.js" "nameCtrl.js" "modals/" "incomeCtrl.js" "identificationCtrl.js~" "identificationCtrl.js" "financeCtrl.js" "disbursementCtrl.js" "detailsCtrl.js~" "detailsCtrl.js" "creditauthCtrl.js" "contactInfoCtrl.js~" "contactInfoCtrl.js" "../" "./")
 
- ("/home/devbuild/working_dir/account_ui/account/" (21887 17390 218147 386000) "app.routeProvider.ts" "./" "components/" "app.module.ts" "styles/" "dist/" "../")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/verification/views/" (23188 33213 0 0) "wizard.html" "verificationNotAuthenticModal.html" "verificationMultipleChoiceTemplate.html" "verification-dashboard.html" "submit.html" "residence.html" "reference.html" "pendingAttentionRequired.html" "income.html" "identity.html" "disbursement.html" "dedupe.html" "credit.html" "audit.html" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/pagination/" (21887 25509 411875 442000) "./" "main_pagination.css" "main_pagination.css.map" "controls.html" "../" "main_pagination.scss")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/services/view-model/" (23188 33213 0 0) "summaryService.js~" "summaryService.js" "referenceService.js" "nameService.js" "incomeService.js" "identificationService.js~" "identificationService.js" "financeService.js" "disbursementService.js" "detailsService.js" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/lists/" (21887 25509 474875 465000) "main_lists.css" "./" "../" "main_lists.scss" "main_lists.css.map")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/locales/" (23188 33213 0 0) "locale-es.json~" "locale-es.json" "locale-en-US.json~" "locale-en-US.json" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/app/styles/" (21887 26754 82732 259000) ".sass-cache/" "./" "app_core.css" "archive/" "app_core.css.map" "../" "app_core.scss")
+ ("/Users/john.richter/Projects/op-common/feature/channel-selection/locales/" (23184 29504 0 0) "locale-es.json" "locale-en-US.json" "#locale-es.json#" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/app/components/services/" (21887 25506 842874 496000) "./" "tsconfig.json" "BaseResource.ts" "../")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/disbursement/channel-selection/locales/" (23188 33044 0 0) "locale-es.json~" "locale-es.json" "locale-en-US.json~" "locale-en-US.json" "../" "./")
 
- ("/home/devbuild/working_dir/" (21887 25501 17872 489000) "permissions/" "./" "phoenix/" "ui_core_copy/" "messaging/" "migrations_copy/" "email/" "ui_core/" "mailman/" "uicoregrunt/" "auth/" "clsq/" "groups_api/" "enrollment/" "gotoandadminmenu.org~" "ams/" "../" "account_ui/" "workgroup_test_fixtures.php" "web/" "cms/" "activity_feed_controller.php" "prodtools/" "activity_feed_controller_ftest.php" "gotoandadminmenu.org" "monitor/" "groups_ui/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/disbursement/channel-selection/" (23188 33044 0 0) "locales/" "channelSelectionPartial.html~" "channelSelectionPartial.html" "channelSelectionDirective.js~" "channelSelectionDirective.js" "channelSelection.js" "channel-selection.scss" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/app/components/" (21887 26030 325125 163000) ".baseDir.ts" "errors/" "./" "menus/" "lists/" "headers/" "pagination/" "page/" "../" "routing/" "filters/" "services/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/controllers/" (23188 33213 0 0) "wizard.js" "summaryCtrl.js~" "summaryCtrl.js" "referenceCtrl.js" "nameCtrl.js" "modals/" "incomeCtrl.js" "identificationCtrl.js~" "identificationCtrl.js" "financeCtrl.js" "disbursementCtrl.js" "detailsCtrl.js" "dashboardCtrl.js" "creditauthCtrl.js" "contactInfoCtrl.js~" "contactInfoCtrl.js" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/" (21880 40523 313244 50000) "controllers/" "./" "scripts/" "base/" "app_route.php" "views/" "../" "common/" "pie.htc" "testhelpers/" "dotorg.inc")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/views/" (23188 33213 0 0) "wizard.html" "summary.html" "references.html" "name.html" "modals/" "income.html" "identification.html~" "identification.html" "finances.html" "disbursement.html" "details.html" "dashboard.html" "credit-auth.html" "contact-info.html~" "contact-info.html" "#summary.html#" "#credit-auth.html#" "#contact-info.html#" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/" (21883 12713 318568 539000) "app.routeProvider.ts" "google-analytics.js" "./" "groupsService.ts" "components/" "assets/" "app.module.ts" "styles/" "dist/" "../" "#app.routeProvider.ts#")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/loan-app/directives/" (23164 50485 0 0) "referenceDirective.js" "preApprovedTermsDirective.js" "partials/" "limit-to.js" "clearableDirective.js" "autoOpenDirective.js" "address-autocomplete/" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/static/styles/" (21883 4802 479422 420000) "jBreadCrumb.css" "ws.css" "jquery-ui-1.8.17.custom.css" "./" "ws-ie7.css" "#ws.css#" "ws-ie6.css" "print.css" "../" "base.css" "ws-ie8.css" "collab.css")
+ ("/Users/john.richter/Projects/ngzeus/app/" (23184 29724 0 0) "views/" "vendor/" "styles/" "scripts/" "robots.txt" "modules/" "locales/" "index.html~" "index.html" "images/" "fonts/" "favicon.png" "favicon.ico" "bower_components/" "404.html" ".htaccess" ".DS_Store" ".buildignore" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/app/components/filters/" (21883 14029 299608 523000) "./" "filters.html" "filterCtrl.ts" "../")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/document-control/controllers/" (23127 63303 0 0) "warning-modal.js" "upload.js" "remove-folder-modal.js" "main.js" "folders-in-box.js" "document-control-dashboard.js" "document-audit.js" "boxing.js~" "boxing.js" "boxing-modal.js" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/common/" (21880 40523 312244 47000) "mailman.inc" "gen_xls.inc" "roster.inc" "chart.inc" "captcha.php" "cron.php" "./" "format_utils.inc" "include_file.inc" "tests/" "billing_data.inc" "request.inc" "templater_helpers.inc" "disk_usage.inc" "unicode.inc" "date_calc.inc" "response.inc" "gen_csv.inc" "rational_numbers.inc" "dbclasses/" "templater.inc" "autoload.inc" "fn.inc" "dyn_css.php" "file_utils.inc" "exceptions.inc" "3rdparty/" "dynamic_css.inc" "../" "central_logging.inc" "reports.inc" "mlm.inc" "encryption.inc" "paginator.inc" "xml/" "php_sux_less.inc" "datetime_helpers.inc")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/disbursement/" (22793 4768 0 0) "views/" "styles/" "services/" "locales/" "disbursementRouting.js" "disbursement.js" "controllers/" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/workgroup/common/dbclasses/" (21880 40523 301244 15000) "o_project_metadata.inc" "o_pub_doc_metadata.inc" "o_document_comment_state.inc" "o_pub_doc_metafield.inc" "o_workgroup_person.inc" "o_vocab.inc" "o_jot.inc" "o_related_projects.inc" "o_project_metafield.inc" "o_settings.inc" "o_wg_reference.inc" "o_opensearch.inc" "o_calendar_event.inc" "o_folder.inc" "o_project_reference.inc" "o_vote_ballot_question_answer.inc" "o_submitted_form.inc" "o_tabs.inc" "o_publication_type.inc" "./" "o_interest_category.inc" "o_wg_item_share.inc" "o_email_log.inc" "o_template.inc" "o_published_document.inc" "o_action_item.inc" "o_eligible_voters.inc" "o_project_type.inc" "o_instruction.inc" "o_project_activity_owner.inc" "tests/" "o_dbsearch.inc" "o_ballot_question_answer.inc" "o_document_type.inc" "o_wg_public.inc" "o_workgroup.inc" "o_wg_mail.inc" "o_ballot_template_option.inc" "o_announcement.inc" "o_content_type.inc" "o_acceptance.inc" "o_calendar_event_type.inc" "o_project.inc" "o_ballot_question.inc" "o_ballot.inc" "o_document_comment_category.inc" "o_submitted_form_attachment.inc" "o_ballot_question_template.inc" "o_email_log_recipient.inc" "o_wg_share.inc" "../" "o_document_comment.inc" "o_vote.inc" "o_project_activity.inc" "o_workgroup_allow_restricted.inc" "o_invitee.inc" "o_ballot_template_question.inc" "o_calendar.inc" "o_workgroup_role.inc" "o_access_token.inc" "o_ballot_template.inc" "o_document.inc" "o_lock.inc" "o_document_reservation.inc" "o_agreement.inc" "o_event_attendance.inc" "o_pending_request.inc" "o_ballot_option.inc" "o_document_comment_response.inc" "o_ballot_question_answer_template.inc" "o_time_zone.inc" "o_document_state.inc")
+ ("/Users/john.richter/Projects/movil/app/scripts/controllers/" (23180 50101 0 0) "terms.js" "takehome.js" "summary.js" "suggestaddress.js" "status.js" "session-timeout.js" "sample-rates-and-fees.js" "returning.js" "results.js" "residence.js" "reset-pin.js" "requirements.js" "references.js" "receive-funds.js" "privacy.js" "privacy-policy.js" "pre-approved.js" "photo-capture.js" "phone.js" "personal.js" "password-reset.js" "multifactor.js" "modals.js" "menu.js" "main.js" "login.js" "loan-disclosures.js" "landing.js" "information-modal.js" "income.js" "identity.js" "identity-confirm.js" "identification.js" "how-it-works.js" "get-started.js" "find-store.js" "finances.js" "esign-sign-document.js" "esign-show-term.js" "esign-show-error.js" "esign-redirect-landing-page.js" "esign-ping-listener.js" "esign-howto-print-save-loan.js" "esign-event-viewing-completed.js" "esign-event-signing-timeout.js" "esign-event-signing-failed.js" "esign-event-signing-declined.js" "esign-event-signing-completed.js" "esign-event-signing-canceled.js" "esign-confirm-term.js" "esign-auto-pay.js" "done.js" "document-submit.js" "disclosures.js" "debt.js" "credit-auth.js" "credit-auth-lock.js" "cookies.js" "continue-or-retry.js" "contact.js" "confirm-in-store.js" "confirm-dialog.js" "confirm-address.js" "complete-store.js" "complete-photo.js" "complete-online-dialog.js" "complete-later.js" "complete-email.js" "change-selection.js" "call-us.js" "appctrl.js" "address.js" "account-info.js" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/views/" (21880 40523 473244 517000) "my_moderation_view.php" "./" "ballot_question_admin_view.php" "header_view.php~" "settings_comments_admin_view.php" "../" "ckeditor_view.php" "header_view.php")
+ ("/Users/john.richter/Projects/op-common/control/notes/" (23180 28288 0 0) "v1/" "theme/" "notesService.js~" "notesService.js" "notesPartial.html" "notesCtrl.js~" "notesCtrl.js" "notesComponent.js" "notes.js" "note.js" "locales/" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/common/dbclasses/" (21880 40523 293243 990000) "o_person.inc" "o_api_person.inc" "./" "o_stats.inc" "_fb_metadata.inc" "o_company.inc" "tests/" "o_organization.inc" "o_login_record.inc" "o_custom_css.inc" "o_person_company.inc" "o_cron_run.inc" "../" "o_member_type.inc" "_fb_metafield.inc" "o_mailing_list.inc" "formbuilder.inc")
+ ("/Users/john.richter/Projects/movil/app/" (23180 50101 0 0) "views/" "vendor/" "styles/" "scripts/" "robots.txt" "media/" "index.html" "images/" "favicon.ico" "bower_components/" "404.html" ".htaccess" ".DS_Store" ".buildignore" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/common/" (21854 25982 994251 57000) "organization.inc" "auth.inc" "validate.inc" "./" "css_value.inc" "tests/" "dbclasses/" "../" "http_utils.inc" "helpers.inc")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/" (23017 2206 0 0) "verification/" "reference-checker/" "production-support/" "payments/" "my-performance/" "manual-fraud-handling/" "loan-app/" "leads/" "document-control/" "disbursement-download/" "disbursement/" "customer-master/" "common/" "collections/" "agent-dashboard/" "admin/" ".DS_Store" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/app/components/page/" (21850 28879 307518 257000) "main_page.scss" "./" "../")
+ ("/Users/john.richter/Projects/stores/" (23171 23888 0 0) "test.json~" "test/" "stop-grunt.sh" "stop-grunt.cmd" "sto-update.js" "sto-install.js" "set-env.js" "package.json" "node_modules/" "karma.conf.js" "karma.conf.files.js" "karma-e2e.conf.js" "installer.js" "Gruntfile.js" "conf/" "build.env.js" "app/" ".oportun/" ".jshintrc" ".gitignore" ".gitattributes" ".git/" ".eslintrc" ".editorconfig" "../" "./")
 
- ("/home/devbuild/working_dir/ui_core/app/components/lists/" (21850 28879 307518 257000) "accounts.ts" "./" "accounts.js" "../" "main_lists.scss" "accounts.html")
+ ("/Users/john.richter/Projects/sto-loan-app/locales/" (23174 4694 0 0) "locale-es.json~" "locale-es.json" "locale-en-US.json~" "locale-en-US.json" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/static/javascripts/" (21868 38181 985309 841000) "reports_common.js" "jquery.jBreadCrumb.1.1.js" "ktimeline.js" "form-builder.js" "ballot-question.js" "add-doc-modal.js" "filters.js" "jquery-ui-1.8.17.custom.min.js" "pub-types.js" "raphael/" "jquery.js" "modify-pub-data.js" "./" "moment.min.js" "QapTcha.jquery.js" "toastr/" "jquery.cookie.js" "view-comment-common.js" "functions.js" "ie9.js" "dependent-dates.js" "reference-items.js" "kwsGlobal.js" "ballot-details.js" "activity-admin.js" "project-common.js" "timeline_2.3.0/" "project-admin.js" "document-common.js" "comment-common.js" "ckeditor/" ".jslintignore" "publish-document.js" "kws/" "jquery-ui-1.8.12.full.min.js" "chosen/" "bulk_actions/" "expand.js" "related-projects.js" "jquery-ui.min.js" "../" "folder-sharing.js" "#kwsGlobal.js#" "add-edit-ballot.js" "jquery.placeholder.js" "jquery.expander.js" "datePicker.js" "tooltip.js" "jquery-1.7.1.js" "action_menu.js" "group-home.js" "flyouts.js" "folder.js" "event-common.js" "jquery.quicksearch.js" "settings-comments.js" "my-moderation.js" "ansi-forms-common.js" "jquery.simpleFAQ-0.7.min.js" "ballot-common.js" "jquery.form.js" "chart-helper.js" "autocolumn.min.js" "PIE.js")
+ ("/Users/john.richter/Projects/op-common/control/notes/theme/slate/" (23172 53388 0 0) "notesPartial.slate.html~" "notesPartial.slate.html" "note.slate.html~" "note.slate.html" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/static/" (21850 21706 790147 801000) "./" "styles/" "javascripts/" "../" "help/" "images/")
+ ("/Users/john.richter/Projects/sto-loan-app/" (23175 2908 0 0) "views/" "theme/" "test/" "sto-loan-app.js" "services/" "route/" "package.json" "node_modules/" "locales/" "karma.conf.js" "karma.conf.files.js" "index.html" "Gruntfile.js" "directives/" "controllers/" "cfg/" "build.files.json" "build.env.js" "app.js" ".tmp/" ".gitignore~" ".gitignore" ".git/" ".editorconfig" ".build_names" ".build_containers" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/templates/" (21850 21706 411146 494000) "layouts/" "css/" "./" "wg_references/" "folders/" "formbuilder/" "notifications/" "my/" "email/" "publications/" "page/" "kws/" "admin/" "public/" "workgroup/" "roster/" "../" "projects/" "reports/" "documents/" "action_items/" "events/" "help/" "comments/" "ical/" "utils/" "ballots/")
+ ("/Users/john.richter/Projects/op-common/feature/" (23129 9055 0 0) "store-locations/" "spouse-contact/" "recurring-profile/" "payment-reversal/" "payment-history/" "feature.js" "dashboard-search/" "customer-search/" "channel-selection/" "cass/" "cancel-loan-app/" "bank-accounts/" "bank-account-edit/" "additional-contact/" "ach-return-codes/" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/page/" (21862 12271 0 0) "main_page.scss" "./" "../")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/verification/" (23164 50485 0 0) "views/" "verificationRouting.js" "verification.js" "test/" "styles/" "services/" "partials/" "models/" "locales/" "directives/" "controllers/" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/components/" (21862 12271 0 0) "errors/" "./" "lists/" "headers/" "pagination/" "page/" "../" "filters/" "services/" "demos/")
+ ("/Users/john.richter/Projects/op-build/" (23129 9011 0 0) "wire-live-reload.js" "wire-deps.js" "util.js" "spawn-grunt.js" "package.json" "module/" "index-toggle.js" "index-cache.js" "Gruntfile.js" "cache-bust.js" "app/" ".jshintrc" ".gitignore" ".git/" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/app/" (21862 12271 0 0) "./" ".buildignore" "components/" "styles/" "../" "app.ts" "images/")
+ ("/Users/john.richter/Projects/op-common/" (23170 4000 0 0) "wizard/" "vendor/" "util/" "theme/" "test/" "resources/" "reflection/" "persistence/" "package.json" "op-common.js" "node_modules/" "model/" "modal/" "message/" "location/" "locales/" "layout/" "karma.conf.js" "karma.conf.files.js" "index.html" "Gruntfile.js" "formatter/" "form/" "filter/" "feature/" "enum/" "dist/" "data/" "core/" "control/" "cfg/" "cache/" "build.files.json" "build.env.js" "auth/" "app.js" "anim/" ".tmp/" ".gitignore~" ".gitignore" ".git/" ".editorconfig" ".build_names" ".build_containers" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/bower_components/ui_core/" (21862 12282 366363 21000) "test/" ".gitignore" ".bower.json" "./" "tsd.json" "Gruntfile.js" "../" "app/" "bower.json" "package.json" "tslint.json")
+ ("/Users/john.richter/Projects/" (23171 25532 0 0) "temp/" "stores/" "sto-my-performance/" "sto-loan-app/" "sto-lo-copy/" "sto-leads/" "sto-disbursement/" "sto-customer-profile/" "sto-agent-dashboard/" "self-service/" "quick-payments-test/" "quick-payments-john/" "quick-payments/" "opr-verification/" "opr-reference-checker/" "opr-manual-fraud-handling/" "opr-document-control/" "opr-disbursement-download/" "operations2/" "operations/" "op-skel-container/" "op-skel/" "op-payments/" "op-common/" "op-build/" "ngzeus/" "movil/" "json-static-server/" "john-projects/" "frontend/" "collections/" "col-collections/" "admin/" "adm-prod-support/" "adm-admin/" "ach-authorization/" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/components/resources/" (21862 11306 204964 651000) "./" "../" "LoggedInUser.ts")
+ ("/Users/john.richter/Projects/operations2/app/" (23171 25578 0 0) "robots.txt" "package.json" "mainCtrl.js" "index.html" "favicon.png" "favicon.ico" "app.js" "404.html" ".htaccess" ".gitignore" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/app/" (21862 11306 209964 653000) "./" "dist/" "../")
+ ("/Users/john.richter/Projects/sto-loan-app/route/" (23129 9272 0 0) "route.js" "../" "./")
 
- ("/home/devbuild/working_dir/account_ui/account/scripts/" (21855 28647 480259 464000) "controllers/" "./" "../" "app.ts" "services/")
+ ("/Users/john.richter/Projects/op-common/model/" (23163 33264 0 0) "Status.js" "Security.js" "SearchResult.js" "Reference.js" "PaymentOption.js" "modelModule.js" "Model.js" "LoanTerms.js" "LoanApp.js" "Income.js" "IDType.js" "IdentificationDocument.js" "FundingInfo.js" "ExpectedDisbursementDate.js" "CustomerType.js" "Customer.js" "core/" "ContactDetails.js" "collection/" "ClientSearchResult.js" "Client.js" "binding/" "BankAccount.js" "Applicant.js" "Address.js" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/components/" (21862 11306 197964 649000) "./" "resources/" "pageOne/" "../" "header/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/disbursement/" (22810 39823 0 0) "spouse-contact/" "payment-options/" "loan-terms/" "identity-information/" "gcp-terms/" "disbursement.js" "channel-selection/" "additional-contact/" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/assets/images/" (21862 11306 208964 653000) "project_activity_icon_25.png" "ballot_icon_25.png" "notif_warning_icon_25.png" "documents_icon_25.png" "./" "groups_icon_25.png" "action_item_icon_25.png" "../" "x.png" "notif_announcement_icon_25.png" "calendar_icon_25.png")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/" (23164 50485 0 0) "wizard/" "util/" "scrollToWithShortcut/" "read-aloud-new-ui/" "read-aloud/" "photo/" "notes/" "model/" "modal/" "logout/" "login/" "loan-app/" "list/" "layout/" "history/" "google-places/" "form/" "filter/" "feature/" "enum/" "documentViewer/" "disbursement/" "data/" "control/" "common.js" "collection/" "channel/" "caching/" "anim/" ".DS_Store" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/groups/assets/" (21862 11306 195964 648000) "./" "../" "images/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/payment-confirm/" (23127 58284 0 0) "paymentConfirmPartial.html~" "paymentConfirmCtrl.js~" "#paymentConfirmCtrl.js#" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/assets/" (21850 28889 767447 656000) "./" "filetree/" "../")
+ ("/Users/john.richter/Projects/ngzeus/test/modules/payments/payment-processing/" (23164 50485 0 0) "#paymentProcessingService.spec.js#" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/app/styles/" (21859 39692 993443 13000) "groups_custom.scss" "./" "../")
+ ("/Users/john.richter/Projects/ngzeus/app/styles/" (23164 50485 0 0) "payments_ui.scss~" "payments_ui.scss" "payments_specific_ui.scss~" "main.scss~" "main.scss" "_variables.scss" "_theme.scss" "_sidebar.scss~" "_sidebar.scss" "_shared.scss~" "_shared.scss" "_scan-modal.scss" "_progress-bar.scss" "_notes.scss" "_mixins.scss" "_glyphicons.scss" "_custom-bootstrap.scss" "../" "./")
 
- ("/home/devbuild/working_dir/phoenix/php/base/" (21850 21706 509146 832000) "./" "index.php" "templates/" "auth/" "kws/" "admin/" "workgroup/" "../" "common/" "workgroup_feeds/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/styles/" (23164 50485 0 0) "payments_ui.scss~" "payments_specific_ui.scss~" "main.scss~" "main.scss" "common/" "_variables.scss~" "_variables.scss" "_theme.scss~" "_theme.scss" "_sidebar.scss~" "_sidebar.scss" "_shared.scss~" "_shared.scss" "_scan-modal.scss" "_progress-bar.scss" "_notes.scss" "_mixins.scss" "_glyphicons.scss~" "_glyphicons.scss" "_custom-bootstrap.scss~" "_custom-bootstrap.scss" "_black-tie.scss~" "_black-tie.scss" "#_theme.scss#" "#_shared.scss#" "#_custom-bootstrap.scss#" "../" "./")
 
- ("/home/devbuild/working_dir/groups_api/" (21850 22749 954246 37000) "setup.cfg" ".gitignore" "pylintrc" "README.rst" "./" "setup.py" "tests/" "assets/" "kavi_groups_api.egg-info/" "requirements-testing.txt" "docs/" "requirements-docs.txt" ".git/" ".egg" "../" "kavi_groups_api/" "requirements.txt" "MANIFEST.in")
+ ("/etc/" (23162 8012 0 0) "zshrc" "zprofile" "xtab" "ttys" "syslog.conf" "sudoers" "sudo_lecture" "ssh/" "snmp/" "shells" "services" "security/" "rtadvd.conf" "rpc" "rmtab" "resolv.conf" "rc.netboot" "rc.common" "racoon/" "protocols" "profile" "ppp/" "postfix/" "php.ini.default" "php-fpm.conf.default" "pf.os" "pf.conf" "pf.anchors/" "periodic/" "paths.d/" "paths" "passwd" "pam.d/" "openldap/" "ntp_opendirectory.conf" "ntp.conf" "ntp-restrict.conf" "notify.conf" "nfs.conf" "newsyslog.d/" "newsyslog.conf" "networks" "nanorc" "master.passwd" "manpaths.d/" "manpaths" "man.conf" "mail.rc" "mach_init_per_user.d/" "mach_init_per_login_session.d/" "mach_init.d/" "locate.rc" "localtime" "krb5.keytab" "kern_loader.conf" "irbrc" "hosts~" "hosts.equiv" "hosts.backup" "hosts" "group" "gettytab" "ftpusers" "ftpd.conf.default" "ftpd.conf" "fstab.hd" "find.codes" "emond.d/" "efax.rc" "dnsextd.conf" "defaults/" "cups/" "csh.logout" "csh.login" "csh.cshrc" "com.apple.screensharing.agent.launchd" "bashrc_Apple_Terminal" "bashrc" "autofs.conf" "auto_master" "auto_home" "asl.conf" "asl/" "apache2/" "aliases.db" "aliases" "afpovertcp.cfg" "../" "./")
 
- ("/home/devbuild/working_dir/account_ui/app/" (21854 27328 693965 579000) "app.core.js" "main.js" "__init__.py" "./" "404.html" ".buildignore" "scripts/" "lib/" "robots.txt" "templates/" "img/" "styles/" "app.main.js" "app.router.js" "views/" "plugins/" "../" "favicon.ico" "index.html" ".htaccess" "images/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/document-control/views/" (23164 50485 0 0) "upload.html" "remove-document-modal.html" "main.html" "index.html" "folders-in-box.html" "document-control-dashboard.html" "document-audit.html" "boxing.html" "../" "./")
 
- ("/etc/httpd/" (21850 19464 594986 712000) "conf/" "./" "conf.d/" "modules/" "../" "logs/" "run/")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/document-control/locales/" (23164 50485 0 0) "locale-es.json~" "locale-es.json" "locale-en-US.json" "../" "./")
 
- ("/etc/" (21854 9059 969436 371000) ".java/" "dracut.conf.d/" "sestatus.conf" "localtime" "odbc.ini" "certmonger/" "autofs.conf" "idmapd.conf" "vimrc" "supervisor.conf" "ld.so.cache" "ntop.conf" "libvirt/" "hosts.allow" "readahead.conf" "profile.d/" "init/" "lvm/" "nscd.conf" "hal/" "logrotate.d/" "nsswitch.conf" "minicom.users" "rwtab.d/" "libpaper.d/" "numad.conf" "mysql_grants.sql" "fstab" "php.d/" "gnome-vfs-2.0/" "incron.d/" "chkconfig.d/" "smart/" "statetab.d/" "init.d/" "mtab" "quotagrpadmins" "at.deny" "amanda/" "latrace.conf" "auto.misc" "bashrc" "foomatic/" "networks" "papersize" "xdg/" "prelink.conf" "libuser.conf" "depmod.d/" "auto.master" "pcmcia/" "clamd.conf" "nrpe.d/" "audit/" "gssapi_mech.conf" "sudo.conf" "oddjob/" "mime.types" "java/" "gconf/" "amavisd.conf" "logrotate.conf" "bonobo-activation/" "php.ini" "pam_ldap.conf" "krb5.conf" "lsb-release" "cups/" "GeoIP.conf" "ltrace.conf" "portreserve/" "nfsmount.conf" "rpm/" "aide.conf" "sudoers" "profile" "cron.daily/" "updatedb.conf" "mailcap" "warnquota.conf" "redis/" "pear.conf" "ntp.conf" "magic" "supervisord.conf" "rabbitmq/" "ntop/" "sudoers.d/" "iproute2/" "ipa/" "motd.orig" "elinks.conf" "rpc" "hosts.deny" "screenrc" "fprintd.conf" "pm/" "rearj.cfg" "oddjobd.conf" "cgconfig.conf" "wgetrc" "rc2.d/" "request-key.conf" "modprobe.d/" "gshadow-" "nslcd.conf" "auto.smb" "sysconfig/" "crypttab" "securetty" "plymouth/" "jvm-commmon/" "gpm-twiddler.conf" "gnupg/" "mail/" "nanorc" "dbus-1/" "asound.conf" "cgconfig.d/" "pam.d/" "NetworkManager/" "selinux/" "jvm/" "gshadow" "mysql/" "environment" "man.config" "ld.so.conf" "libreport/" "favicon.png" "hosts" "rc.local" "sgml/" "rc3.d/" "polkit-1/" "crontab" "rc5.d/" "rsyslog.d/" "freshclam.conf" "shadow-" "rwtab" "cas.conf" "blkid/" "yum.repos.d/" "issue.net" "xinetd.d/" "shadow" "rc6.d/" "default/" "shells" "openldap/" "issue" "ntp/" "group" "mail.rc" "postfix/" "ssh/" "motd.tail" "sasl2/" "passwd" "fstab.pre-kickstart" "gpm-syn.conf" "sos.conf" "cgrules.conf" "exports" "fonts/" "xinetd.conf" "my.cnf" "Trolltech.conf" "gcrypt/" "rc.d/" "udev/" "inittab" "sssd/" "cron.weekly/" "netconfig" "quotatab" "rc0.d/" "samba/" "odbcinst.ini" "nagios/" "cron.monthly/" "kdump-adv-conf/" "cron.deny" "motd" "apt/" "pulse/" "alsa/" "dracut.conf" "xpdf/" "grub.conf" "csh.login" "host.conf" "setuptool.d/" "skel/" "smartd.conf" "prelink.conf.d/" "chef/" "mke2fs.conf" "rc.sysinit" "DIR_COLORS.256color" "incron.conf" "adjtime" "aliases.db" "scl/" "yum.conf" "acpi/" "oddjobd.conf.d/" "csh.cshrc" "cgsnapshot_blacklist.conf" "security/" "ld.so.conf.d/" "redis.conf" "auto.net" "anacrontab" "DIR_COLORS" "rc4.d/" "filesystems" "centos-release" "login.defs" "popt.d/" "drirc" "DIR_COLORS.lightbgcolor" "makedev.d/" "aliases" "dcc/" "ethers" "yp.conf" "yum/" "nginx/" "rsyslog.conf" "passwd-" "snmp/" "dhcp/" "ppp/" "chef-managed" "lsb-release.d/" "xpdfrc" ".pwd.lock" "cron.d/" "audisp/" "cron.hourly/" "alternatives/" "maven/" "bash_completion" "httpd/" "abrt/" "pinforc" "pango/" "kdump.conf" "gpm-root.conf" "ghostscript/" "inputrc" "ssl/" "statetab" "sysctl.conf" "ConsoleKit/" "bash_completion.d/" "pm-utils-hd-apm-restore.conf" "virc" "X11/" "incron.allow" "prelink.cache" "redhat-lsb/" "request-key.d/" "rc1.d/" "pkcs11/" "group-" "event.d/" "resolv.conf" "xml/" "pear/" "services" "supervisord.d/" "protocols" "mercurial/" "system-release" "libaudit.conf" "automysqlbackup/" "sudo-ldap.conf" "terminfo/" "rc" "printcap" "redhat-release" "autofs_ldap_auth.conf" "system-release-cpe" "pki/" "gai.conf" "mcelog/" "opt/" "latrace.d/" "../" "./")
+ ("/Users/john.richter/Projects/ngzeus/app/modules/document-control/partials/" (23164 50485 0 0) "warning-modal.html" "boxing-modal.html" "box-count-box.html" ".keep" "../" "./")
 
- ("/opt/kavi/site/temp-vm-102/" (21852 53553 803016 478000) "./" "avatars/" "image/" "../" "content/" "config.yaml" "admin_config.yaml")
+ ("/Users/john.richter/Projects/ngzeus/app/scripts/components/processProgress/" (23164 50485 0 0) "ProcessStep.js" "processProgressComponent.js" "processProgress.js" "../" "./")
 
- ("/opt/kavi/site/" (21850 19863 811626 484000) "./" "temp-vm-102/" "../")
+ ("/Users/john.richter/Projects/op-common/control/validation/" (23163 33264 0 0) "validator/" "selectRequiredDirective.js" "inputValidationDirective.js~" "inputValidationDirective.js" "#inputValidationDirective.js#" "../" "./")
 
- ("/opt/kavi/etc/" (21850 19764 278890 710000) "site_map.yaml" "./" "../" "config.yaml" "pki/")
+ ("/Users/john.richter/Projects/opr-verification/locales/" (23162 18465 0 0) "locale-es.json~" "locale-es.json" "locale-en-US.json~" "locale-en-US.json" "../" "./")
 
- ("/opt/kavi/" (21850 19502 222102 1000) "etc/" "./" "lib/" "service/" "bin/" "../" "include/" "share/" "content/" "customer/" "site/" "lib64/" "tools/")
+ ("/Users/john.richter/Projects/adm-admin/" (23163 45952 0 0) "views/" "theme/" "services/" "route/" "package.json" "package-lock.json" "node_modules/" "locales/" "karma.conf.js" "karma.conf.files.js" "index.html" "Gruntfile.js" "dist/" "directives/" "controllers/" "components/" "cfg/" "build.files.json" "build.env.js" "app.js" "adm-admin.js" ".tmp/" ".gitignore~" ".gitignore" ".git/" ".editorconfig" ".build_names" ".build_containers" "../" "./")
 
- ("/opt/" (21850 19502 204101 945000) "./" "rh/" "../" "chef/" "kavi/")
+ ("/Users/john.richter/Projects/admin/" (23163 31474 0 0) "test/" "stop-grunt.sh" "stop-grunt.cmd" "set-env.js" "package.json" "node_modules/" "karma.conf.js" "karma.conf.files.js" "karma-e2e.conf.js" "installer.js" "Gruntfile.js" "conf/" "build.env.js" "app/" "adm-update.js" "adm-install.js" ".oportun/" ".jshintrc" ".gitignore" ".gitattributes" ".git/" ".eslintrc" ".editorconfig" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/app/components/pageOne/" (21854 25285 357390 424000) "filterText.directive.ts" "./" "dashView.html" "filter.html" "kaviFeed.directive.ts" "inputFormatter.directive.ts" "feed.html" "../" "kaviFeed.directive.js" "FilterIntroController.ts" "filterText.directive.js")
+ ("/Users/john.richter/Projects/adm-admin/views/" (23163 45952 0 0) "users.html" "users-create-edit.html" "partials/" "channel.html" "channel-edit.html" "../" "./")
 
- ("/home/devbuild/working_dir/groups_ui/app/components/" (21850 28889 766447 663000) "./" "resources/" "pageOne/" "../" "header/")
+ ("/Users/john.richter/Projects/adm-admin/views/partials/" (23163 45952 0 0) "userChannelRoles.html" "searchBar.html" "../" "./")
 
- ("/home/devbuild/dotfiles/" (21850 26947 526380 363000) ".bashrc" ".emacs.d/" "./" ".screenrc" ".bashrc_custom" ".git/" "README.md" "../" ".bash_profile")
+ ("/Users/john.richter/Projects/adm-admin/controllers/" (23163 45990 0 0) "userManagementCtrl.js~" "userManagementCtrl.js" "userCreateEditCtrl.js" "channelManagementCtrl.js" "channelEditCtrl.js" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/modules/admin/" (23163 42523 0 0) "views/" "styles/" "locales/" "directives/" "controllers/" "adminRouting.js" "admin.js" "../" "./")
+
+ ("/Users/john.richter/Projects/opr-verification/controllers/" (23162 11952 0 0) "wizardStepWrapperCtrl.js" "verificationWizard.js" "verificationDashboardCtrl.js" "residenceCtrl.js" "referenceCtrl.js" "pendingAttentionCtrl.js" "incomeCtrl.js" "identityCtrl.js~" "identityCtrl.js" "disbursementCtrl.js" "deDupeCtrl.js" "creditAuthCtrl.js" "auditCtrl.js" "../" "./")
+
+ ("/Users/john.richter/Projects/opr-verification/" (23151 24450 0 0) "views/" "theme/" "test/" "services/" "routing/" "partials/" "package.json" "opr-verification.js" "node_modules/" "models/" "locales/" "karma.conf.js" "karma.conf.files.js" "index.html" "Gruntfile.js" "directives/" "controllers/" "cfg/" "build.files.json" "build.env.js" "app.js" ".tmp/" ".gitignore~" ".gitignore" ".git/" ".editorconfig" ".build_names" ".build_containers" "../" "./")
+
+ ("/Users/john.richter/Projects/opr-verification/theme/" (23129 9154 0 0) "slate/" "green/" "../" "./")
+
+ ("/Users/john.richter/Projects/opr-verification/theme/slate/" (23162 6927 0 0) "wizardPartial.slate.html" "verificationNotAuthenticModalPartial.slate.html" "verificationMultipleChoiceTemplatePartial.slate.html" "verification-dashboardPartial.slate.html" "slate.scss" "residencePartial.slate.html" "referencePartial.slate.html" "pendingAttentionRequiredPartial.slate.html" "incomePartial.slate.html~" "incomePartial.slate.html" "identityPartial.slate.html" "disbursementPartial.slate.html" "dedupePartial.slate.html" "creditPartial.slate.html" "auditPartial.slate.html" "_verificationMultipleChoice.scss" "_verification.scss" "_sidebar.scss" "_references.scss" "_notes.scss" "_income.scss" "_identity.scss" "_disbursement.scss" "_dashboard.scss" "_audit.scss" "_animations.scss" "../" "./")
+
+ ("/Users/john.richter/Projects/op-common/data/" (23159 62445 0 0) "securityDataService.js" "searchResultDataService.js" "referenceDataService.js" "referenceCheckerDataService.js" "rachBankAccountDataService.js" "paymentsDataService.v1.js" "paymentsDataService.js" "paymentReminderDataService.js" "paymentOptionDataService.js" "loanAppDataService.js" "leadDetailsDataService.js" "leadDataService.js" "incomeDataService.js" "identityDataService.js" "identificationDocumentDataService.js" "financeDataService.js" "exemptChannelService.js" "disbursementOptionDataService.js" "disbursementDataService.js" "dataFactory.js" "data.js" "customerSearchDataService.js" "contactInfoDataService.js" "contactDetailsDataService.js" "contactDataService.js" "collectionsClientDataService.js" "closestStoreDataService.js" "clientSearchResultDataService.js" "clientDataService.js" "channelDataService.js" "bankAccountDataService.js" "applicantDataService.js" "agentDataService.js" "addressDataService.js" "../" "./")
+
+ ("/Users/john.richter/Projects/op-common/control/notes/theme/" (23129 9055 0 0) "slate/" "green/" "../" "./")
+
+ ("/Users/john.richter/Projects/op-common/control/notes/locales/" (23160 58188 0 0) "locale-es.json" "locale-en-US.json~" "locale-en-US.json" "../" "./")
+
+ ("/Users/john.richter/Projects/op-common/control/" (23129 9055 0 0) "view-files/" "validation/" "toggle/" "store-finder/" "role-sidebar-new-ui/" "role-sidebar/" "read-aloud-new-ui/" "read-aloud/" "progress-bar/" "photo/" "phone-input/" "notes/" "multiple-choice/" "list/" "limit-to.js" "info-tip/" "info-box/" "header/" "grid/" "google-places/" "file-upload/" "document/" "date-time-picker/" "date-input/" "control.js" "clearableDirective.js" "call-log/" "autoOpenDirective.js" "address-autocomplete/" "activity-bar/" "../" "./")
+
+ ("/Users/john.richter/Projects/sto-loan-app/services/" (23129 9272 0 0) "view-model/" "processStrategy.js" "processService.js" "frozenProfileService.js" "financeService.js" "declineModal.js" "dashboardService.js" "customerMatch.js" "creditauthService.js" "../" "./")
+
+ ("/Users/john.richter/Projects/opr-document-control/services/" (23146 27006 0 0) "loanapp.js" "folders-in-box.js" "documentaudit.js" "document-upload.js" "box.js~" "box.js" "../" "./")
+
+ ("/Users/john.richter/Projects/op-payments/payment-processing/latest/locales/" (23153 1413 0 0) "locale-es.json" "locale-en-US.json" "../" "./")
+
+ ("/Users/john.richter/Projects/op-payments/highlights-bar/" (23129 9093 0 0) "v1/" "latest/" "../" "./")
+
+ ("/Users/john.richter/Projects/op-payments/payment-processing/" (23129 9093 0 0) "v1/" "latest/" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/scripts/services/" (23136 19747 0 0) "viewFilesService.js" "storeFinderService.js" "session-store.js" "sendDocumentService.js" "scanDocumentService.js" "randomString.js" "progressbar.js" "privilegesService.js" "printDocumentService.js" "notes.js" "nls.js" "historyService.js~" "fileUploadService.js" "error-popup.js" "enum.js" "endpoints.js" "confirm-modal.js" "clientID.js" "authentication.js" "addressValidationService.js" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/scripts/" (23136 19747 0 0) "utilities/" "services/" "directives/" "controllers/" "components/" "app.js~" "app.js" "app-no-be.js" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/payment-processing/locales/" (23136 19747 0 0) "locale-es.json~" "locale-es.json" "locale-en-US.json~" "locale-en-US.json" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/modules/payments/highlights-bar/" (23136 19747 0 0) "paymentsHighlightsBarCtrl.js~" "paymentsHighlightsBarCtrl.js" "paymentsHighlightsBar.html~" "paymentHighlightsBar.html~" "paymentHighlightsBar.html" "pa.highlightsBar.html~" "pa.highlightsBar.feature.js~" "pa.highlightsBar.component.js~" "locales/" "highlightsBarComponent.js~" "highlightsBarComponent.js" "highlightsBar.js" "_balanceBreakdown.html~" "#pa.highlightsBar.feature.js#" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/test/modules/payments/payment-receipt/" (23136 19747 0 0) "paymentReceiptCtrl.spec.js~" "paymentReceiptCtrl.js~" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/test/modules/common/feature/bank-accounts/" (23136 19747 0 0) "bankAccountsViewModelService.spec.js~" "bankAccountsCtrl.spec.js~" "#bankAccountsCtrl.spec.js#" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/test/modules/common/feature/bank-account-edit/" (23136 19747 0 0) "bankAccountEditViewModelService.spec.js~" "bankAccountEditCtrl.spec.js~" "#bankAccountEditCtrl.spec.js#" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/store-locations/" (23136 19747 0 0) "storeLocationsViewModelService.js~" "storeLocationsPartial.html~" "storeLocationsCtrl.js~" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/test/modules/common/feature/store-locations/" (23136 19747 0 0) "storeLocationsViewModelService.spec.js~" "storeLocationsCtrl.spec.js~" "#storeLocationsViewModelService.spec.js#" "#storeLocationsCtrl.spec.js#" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/test/modules/common/feature/payment-reversal/" (23136 19747 0 0) "paymentReversalCtrl.spec.js~" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/recurring-profile/" (23136 19747 0 0) "recurringProfileService.js" "recurringProfilePartial.html" "recurringProfileCtrl.js~" "recurringProfileCtrl.js" "recurringProfile.js" "locales/" "#recurringProfileViewModelService.js#" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/scripts/controllers/" (23136 19747 0 0) "viewFilesCtrl.js" "storeSelect.js" "storeFinder.js" "store-share-modal.js" "sendDocumentCtrl.js" "scanDocumentCtrl.js" "scan-modal.js~" "scan-modal.js" "printDocumentCtrl.js" "notes.js" "main.js~" "main.js" "fileUploadCtrl.js" "error-modal.js" "confirm-modal.js" "addressValidation.js" "#main.js#" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/bank-account-edit/locales/" (23136 19747 0 0) "locale-es.json~" "locale-es.json" "locale-en-US.json~" "locale-en-US.json" "../" "./")
+
+ ("/Users/john.richter/Projects/ngzeus/app/modules/common/feature/bank-account-edit/" (23136 19747 0 0) "locales/" "bankAccountEditViewModelService.js~" "bankAccountEditService.js~" "bankAccountEditService.js" "bankAccountEditPartial.html~" "bankAccountEditPartial.html" "bankAccountEditCtrl.js~" "bankAccountEditCtrl.js" "bankAccountEdit.js~" "bankAccountEdit.js" "#bankAccountEditPartial.html#" "#bankAccountEditCtrl.js#" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
