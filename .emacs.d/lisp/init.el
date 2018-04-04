@@ -69,7 +69,6 @@
 ;; ---------------------------
 ;; -- JS Mode configuration --
 ;; ---------------------------
-(load "js-config.el")
 (add-to-list 'load-path "~/.emacs.d/jade-mode") ;; github.com/brianc/jade-mode
 (require 'sws-mode)
 (require 'jade-mode)    
@@ -238,22 +237,6 @@
 (tss-config-default)
 
 
-;;js2-mode
-(add-hook 'js-mode-hook 'js2-minor-mode)
-(add-hook 'js2-mode-hook 'ac-js2-mode)
-(setq js2-highlight-level 3)
-
-
-;;paraedit keep parens balanced
-(defun my-paredit-nonlisp ()
-  "Turn on paredit mode for non-lisps."
-  (interactive)
-  (set (make-local-variable 'paredit-space-for-delimiter-predicates)
-       '((lambda (endp delimiter) nil)))
-  (paredit-mode 1))
-(add-hook 'js-mode-hook 'my-paredit-nonlisp) ;use with the above function
-
-
 ;;flycheck
 (require 'flycheck)
 (add-hook 'js-mode-hook
@@ -320,8 +303,10 @@
 
 (setq-default indent-tabs-mode nil)
 
-;; indent javascript mode by 2 spaces
-(setq js-indent-level 2)
 
-(put 'dired-find-alternate-file 'disabled nil)
-(setq-default indent-tabs-mode nil)
+;;JS2 mode http://emacs.cafe/emacs/javascript/setup/2017/04/23/emacs-setup-javascript.html
+(require 'js2-mode)
+(add-to-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
+
+;; Better imenu
+(add-hook 'js2-mode-hook #'js2-imenu-extras-mode)

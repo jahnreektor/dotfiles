@@ -1,3 +1,10 @@
+
+;; Added by Package.el.  This must come before configurations of
+;; installed packages.  Don't delete this line.  If you don't want it,
+;; just comment it out by adding a semicolon to the start of the line.
+;; You may delete these explanatory comments.
+(package-initialize)
+
 (setq vc-handled-backends nil)
 ;; -*- mode: emacs-lisp -*-
 ;; Simple .emacs configuration
@@ -69,7 +76,6 @@
 ;; ---------------------------
 ;; -- JS Mode configuration --
 ;; ---------------------------
-(load "js-config.el")
 
 (iswitchb-mode 1)
 ;;iswitchb ignore
@@ -119,8 +125,10 @@
 (require 'uniquify)
 (setq uniquify-buffer-name-style 'reverse)
 
+;;install melpa
+(require 'package)
+(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/"))
 
-					; org mode
 ;; Enable org-mode
 (require 'org)
 ;; Make org-mode work with files ending in .org
@@ -146,28 +154,6 @@
 ;;fix emacs problem with node REPL
 (setenv "NODE_NO_READLINE" "1")
 
-
-;;java mode indent
-;;(setq default-tab-width 1)
-;;(add-hook 'java-mode-hook (lambda ()
-;;                              (setq c-basic-offset 4)))
-
-;; (add-hook 'java-mode-hook (lambda ()
-;; 			    (setq c-basic-offset 4
-;; 				  tab-width 4
-;; 				  indent-tabs-mode t)))
-;; highlight matching bracket
-;;(setq show-paren-delay 0)
-;;    (show-paren-mode 1)
-
-;; color theme
-;;(require 'color-theme)
-;; (require 'color-theme)
-;; (color-theme-initialize)
-;; (color-theme-comidia)
-;;(load-file "~/.emacs.d/themes/color-theme-railscasts.el")
-;; (color-theme-railscasts)
-
 ;;require doremi
 (require 'doremi)
 (require 'doremi-cmd)
@@ -190,22 +176,20 @@
 (require 'sass-mode)
 (add-to-list 'auto-mode-alist '("\\.scss$" . sass-mode))
 
-(when (>= emacs-major-version 24)
-  (require 'package)
-  (package-initialize)
-  (add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/") t)
-  )
-
 ;;yasnippet from truongtx.me
 ;;; should be loaded before auto complete so that they can work together
+;; (require 'yasnippet)
+;; (yas-global-mode 1)
+(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.12.2")
 (require 'yasnippet)
+(setq yas-snippet-dirs '("~/.emacs.d/elpa/yasnippet-0.12.2/snippets" "~/Dropbox/Applications/Customise/emacs/myyassnipets"))
 (yas-global-mode 1)
 
 ;;; set the trigger key so that it can work together with yasnippet on tab key,
 ;;; if the word exists in yasnippet, pressing tab will cause yasnippet to
 ;;; activate, otherwise, auto-complete will
-(ac-set-trigger-key "TAB")
-(ac-set-trigger-key "<tab>")
+;; (ac-set-trigger-key "TAB")
+;; (ac-set-trigger-key "<tab>")
 
 
 ;; Typescript
@@ -306,7 +290,10 @@
  '(custom-enabled-themes nil)
  '(custom-safe-themes
    (quote
-    ("45482e7ddf47ab1f30fe05f75e5f2d2118635f5797687e88571842ff6f18b4d5" default))))
+    ("45482e7ddf47ab1f30fe05f75e5f2d2118635f5797687e88571842ff6f18b4d5" default)))
+ '(package-selected-packages
+   (quote
+    (ag tss js2-refactor handlebars-mode flycheck angular-snippets))))
 
 (setq-default indent-tabs-mode nil)
 
@@ -315,3 +302,7 @@
 
 (put 'dired-find-alternate-file 'disabled nil)
 (setq-default indent-tabs-mode nil)
+
+(add-to-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
+
+
